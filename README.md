@@ -15,7 +15,7 @@ Discuss: Value proposition: Your will propose a machine learning system that can
 |---------------------------------|-----------------|------------------------------------|
 | All team members                |                 |                                    |
 | Team member 1                   |                 |                                    |
-| Team member 2                   |                 |                                    |
+| Team member 2                   | Aviraj Dongare  |                                    |
 | Team member 3                   |                 |                                    |
 | Team member 4 (if there is one) |                 |                                    |
 
