@@ -29,7 +29,7 @@ Traditional trading systems underutilize unstructured sentiment data. This proje
 
 ## 🗂 System Overview
 
-![System Diagram](upload://file-US2P8b3ZfcBFpYyn9FaGCz)
+![mlops sys](https://github.com/user-attachments/assets/6d0ded44-f246-44b1-8ec4-cb2e1fdc60de)
 
 ### Components
 
