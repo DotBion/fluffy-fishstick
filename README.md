@@ -1,7 +1,7 @@
 # fluffy-fishstick
 
 
-## Title of project
+## MarketMind : MLOps-Driven Stock Forecasting Using News & Tweets
 
 <!-- 
 Discuss: Value proposition: Your will propose a machine learning system that can be used in an existing business or service. (You should not propose a system in which a new business or service would be developed around the machine learning system.) Describe the value proposition for the machine learning system. What’s the (non-ML) status quo used in the business or service? What business metric are you going to be judged on? (Note that the “service” does not have to be for general users; you can propose a system for a science problem, for example.)
@@ -14,14 +14,19 @@ Discuss: Value proposition: Your will propose a machine learning system that can
 | Name                            | Responsible for | Link to their commits in this repo |
 |---------------------------------|-----------------|------------------------------------|
 | All team members                |                 |                                    |
-| Team member 1                   |                 |                                    |
-| Team member 2                   | Aviraj Dongare  |                                    |
-| Team member 3                   |                 |                                    |
-| Team member 4 (if there is one) |                 |                                    |
+| Aviraj Dongare                  |                 |                                    |
+| Deeptanshu Lnu                  |                 |                                    |
+| Nobodit Choudhury               |                 |                                    |
+| Ronit Gehani                    |                 |                                    |
 
 
 
 ### System diagram
+
+![mlops-4](https://github.com/user-attachments/assets/2df99e87-61d1-4313-90c1-ecdb50619222)
+
+
+
 
 <!-- Overall digram of system. Doesn't need polish, does need to show all the pieces. Must include: all the hardware, all the containers/software platforms, all the models, all the data. -->
 
