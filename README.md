@@ -1,76 +1,120 @@
-# fluffy-fishstick
+# 📈 Stock Sentiment-Aware Price Forecasting using LLM + MLStack
+
+A hybrid machine learning system that estimates future stock prices by combining real-time textual financial sentiment (news, Twitter, etc.) and traditional market indicators. The system leverages LLMs like **FinBERT**, custom embeddings, and regression-based predictors, and is built with a full MLOps pipeline on **Chameleon Cloud**.
+
+---
+
+## 🧠 Value Proposition
+
+Traditional trading systems underutilize unstructured sentiment data. This project enhances stock prediction accuracy by integrating sentiment analysis with financial time-series data, helping analysts and decision-makers make better-informed predictions.
+
+- **Current Status Quo**: Manual lookup or rule-based signal processing
+- **Our Improvement**: ML-enhanced predictions using structured + unstructured data
+- **Business Metric**: Accuracy of predictions, latency for inference, real-time adaptability
+
+---
+
+## 👥 Contributors
+
+| Name               | Role                                        | Commits |
+|--------------------|---------------------------------------------|---------|
+| All team members   | Design, Infra setup, Documentation          | [Link](#) |
+| Ronit Gehani       | Data pipeline, MLflow, FSDP                 | [Link](#) |
+| Deeptanshu Lnu     | Training pipeline, FinBERT optimization     | [Link](#) |
+| Aviraj Dongare     | CI/CD, GitHub Actions, Infra-as-Code        | [Link](#) |
+| Nobodit Choudhury  | FastAPI backend, serving infra              | [Link](#) |
 
 
-## MarketMind : MLOps-Driven Stock Forecasting Using News & Tweets
+---
 
-<!-- 
-Discuss: Value proposition: Your will propose a machine learning system that can be used in an existing business or service. (You should not propose a system in which a new business or service would be developed around the machine learning system.) Describe the value proposition for the machine learning system. What’s the (non-ML) status quo used in the business or service? What business metric are you going to be judged on? (Note that the “service” does not have to be for general users; you can propose a system for a science problem, for example.)
--->
+## 🗂 System Overview
 
-### Contributors
+![System Diagram](upload://file-US2P8b3ZfcBFpYyn9FaGCz)
 
-<!-- Table of contributors and their roles. First row: define responsibilities that are shared by the team. Then each row after that is: name of contributor, their role, and in the third column you will link to their contributions. If your project involves multiple repos, you will link to their contributions in all repos here. -->
+### Components
 
-| Name                            | Responsible for | Link to their commits in this repo |
-|---------------------------------|-----------------|------------------------------------|
-| All team members                |                 |                                    |
-| Aviraj Dongare                  |                 |                                    |
-| Deeptanshu Lnu                  |                 |                                    |
-| Nobodit Choudhury               |                 |                                    |
-| Ronit Gehani                    |                 |                                    |
+- 📰 **Text Sources**: Financial PhraseBank, Twitter, News APIs
+- 📊 **Market Data**: YFinance API
+- 🔤 **NLP**: FinBERT fine-tuned for sentiment
+- 📈 **Prediction Model**: Logistic/XGBoost with embeddings
+- 📦 **Pipeline**: Spark + Airflow for ETL
+- 🧪 **Experiment Tracking**: MLflow + Ray
+- 🚀 **Deployment**: Docker + FastAPI
+- 🔍 **Monitoring**: Grafana + Loki + Prometheus
 
+---
 
+## 📦 Datasets & Models
 
-### System diagram
+| Resource             | Origin/Creation                    | License |
+|----------------------|-------------------------------------|---------|
+| Financial PhraseBank | Annotated financial text dataset    | Open Use |
+| Twitter API          | Live tweets                        | Academic |
+| YFinance             | Stock price data                   | Public API |
+| FinBERT              | Pretrained NLP model               | Apache 2.0 |
 
-![mlops-4](https://github.com/user-attachments/assets/2df99e87-61d1-4313-90c1-ecdb50619222)
+---
 
+## ☁️ Chameleon Cloud Infrastructure
 
+| Resource       | Usage Purpose                          |
+|----------------|-----------------------------------------|
+| `gpu_a100`     | FinBERT fine-tuning, embedding gen      |
+| `m1.large`     | Ray head node, MLflow, Airflow          |
+| `m1.medium`    | API server, Monitoring (Grafana/Loki)   |
+| Floating IPs   | FastAPI + Dashboard access              |
+| 100GB Volume   | Persist models, embeddings, logs        |
 
+---
 
-<!-- Overall digram of system. Doesn't need polish, does need to show all the pieces. Must include: all the hardware, all the containers/software platforms, all the models, all the data. -->
+## 🛠️ Project Design
 
-### Summary of outside materials
+### 🧠 Model Training
 
-<!-- In a table, a row for each dataset, foundation model. Name of data/model, conditions under which it was created (ideally with links/references), conditions under which it may be used. -->
+- Fine-tuning FinBERT + sentiment embeddings
+- Market embeddings from structured data
+- Combined model via Logistic Regression or XGBoost
+- Tracked in **MLflow**, scheduled via **Ray**
+- ✅ **Difficulty**: Distributed training (Ray Train), Ray Tune HPO
 
-|              | How it was created | Conditions of use |
-|--------------|--------------------|-------------------|
-| Data set 1   |                    |                   |
-| Data set 2   |                    |                   |
-| Base model 1 |                    |                   |
-| etc          |                    |                   |
+### 🚀 Model Serving & Monitoring
 
+- FastAPI Docker app for `/predict`
+- Prometheus + Grafana dashboards
+- ✅ **Difficulty**: Compare CPU/GPU inference + live drift monitoring
 
-### Summary of infrastructure requirements
+### 🔄 Data Pipeline
 
-<!-- Itemize all your anticipated requirements: What (`m1.medium` VM, `gpu_mi100`), how much/when, justification. Include compute, floating IPs, persistent storage. The table below shows an example, it is not a recommendation. -->
+- **Offline**: Twitter/YFinance → ETL → Postgres
+- **Online**: Simulated API calls for real-time update
+- ✅ **Difficulty**: Interactive data quality dashboard
 
-| Requirement     | How many/when                                     | Justification |
-|-----------------|---------------------------------------------------|---------------|
-| `m1.medium` VMs | 3 for entire project duration                     | ...           |
-| `gpu_mi100`     | 4 hour block twice a week                         |               |
-| Floating IPs    | 1 for entire project duration, 1 for sporadic use |               |
-| etc             |                                                   |               |
+### 🔁 Continuous Integration
 
-### Detailed design plan
+- CI/CD via GitHub Actions:
+  - ETL → Train → Evaluate → Docker Build → Helm Deploy
+- Staging/Canary/Prod with Helm
+  
 
-<!-- In each section, you should describe (1) your strategy, (2) the relevant parts of the diagram, (3) justification for your strategy, (4) relate back to lecture material, (5) include specific numbers. -->
+---
 
-#### Model training and training platforms
+## 📊 Evaluation Plan
 
-<!-- Make sure to clarify how you will satisfy the Unit 4 and Unit 5 requirements, and which optional "difficulty" points you are attempting. -->
+- Offline evaluation: BLEU, MAPE, MAE on held-out test set
+- Online evaluation: User simulation tests
+- Drift detection: Based on embeddings, market data change
+- Feedback loop: Real-time prediction storage for retraining
 
-#### Model serving and monitoring platforms
+---
 
-<!-- Make sure to clarify how you will satisfy the Unit 6 and Unit 7 requirements,  and which optional "difficulty" points you are attempting. -->
+## 📎 License & Usage
 
-#### Data pipeline
+This project is intended for academic and research purposes only. All third-party models and datasets comply with their respective licenses.
 
-<!-- Make sure to clarify how you will satisfy the Unit 8 requirements,  and which optional "difficulty" points you are attempting. -->
+---
 
-#### Continuous X
+## ✨ Live Demo / API Endpoint
 
-<!-- Make sure to clarify how you will satisfy the Unit 3 requirements,  and which optional "difficulty" points you are attempting. -->
+> Coming soon: [https://your-chameleon-ip](https://your-chameleon-ip)
 
-#### Source: https://ffund.github.io/ml-sys-ops/docs/project.html
+---
