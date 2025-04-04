@@ -6,11 +6,18 @@ A hybrid machine learning system that estimates future stock prices by combining
 
 ## 🧠 Value Proposition
 
-Traditional trading systems underutilize unstructured sentiment data. This project enhances stock prediction accuracy by integrating sentiment analysis with financial time-series data, helping analysts and decision-makers make better-informed predictions.
+Our project targets quantitative hedge funds and alternative data research teams at firms like Two Sigma, Citadel Securities, or Bloomberg. These institutions constantly seek scalable ways to integrate alternative signals like public sentiment into trading models. FinPulse provides a production-ready, automated pipeline that processes daily financial news and market data to predict next-day stock price movement.
 
-- **Current Status Quo**: Manual lookup or rule-based signal processing
-- **Our Improvement**: ML-enhanced predictions using structured + unstructured data
-- **Business Metric**: Accuracy of predictions, latency for inference, real-time adaptability
+Unlike fragmented research workflows or experimental scripts, FinPulse enables end-to-end automation of the ML lifecycle: data ingestion, feature engineering, model training, serving, monitoring, and retraining. It significantly reduces the latency between research insight and model deployment—empowering firms to capitalize on market sentiment quickly and reliably.
+
+- **Current Status Quo**: Today, data scientists in hedge funds and financial analytics firms work in fragmented environments:
+Sentiment analysis and price modeling are often done independently.
+Transitioning from research to deployment is manual and time-consuming.
+Retraining schedules are ad hoc, leading to model staleness.
+Monitoring and observability are limited—data drifts or system failures may go unnoticed.
+
+- **Our Improvement**: FinPulse bridges the gap between alpha discovery and operationalization, helping funds move faster from signal to trade while maintaining transparency and robustness.
+- **Business Metric**: Accuracy of predictions, latency for inference, model Freshness
 
 ---
 
@@ -29,7 +36,8 @@ Traditional trading systems underutilize unstructured sentiment data. This proje
 
 ## 🗂 System Overview
 
-![mlops sys](https://github.com/user-attachments/assets/6d0ded44-f246-44b1-8ec4-cb2e1fdc60de)
+![architecture-block-v2](https://github.com/user-attachments/assets/0690acc0-020f-430c-aff8-65fd312ad57d)
+
 
 ### Components
 
