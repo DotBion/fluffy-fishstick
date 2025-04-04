@@ -1,4 +1,4 @@
-# 📈 Stock Sentiment-Aware Price Forecasting using LLM + MLStack
+# 📈 FinPulse : Stock Sentiment-Aware Price Forecasting using LLM + MLStack
 
 A hybrid machine learning system that estimates future stock prices by combining real-time textual financial sentiment (news, Twitter, etc.) and traditional market indicators. The system leverages LLMs like **FinBERT**, custom embeddings, and regression-based predictors, and is built with a full MLOps pipeline on **Chameleon Cloud**.
 
