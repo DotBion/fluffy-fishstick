@@ -24,13 +24,13 @@ Monitoring and observability are limited—data drifts or system failures may go
 
 - Our project meets medium-scale criteria across all three axes—data, model, and deployment:
 
-- 1. Data Scale
+  - Data Scale
 
   Financial PhraseBank: ~4,000+ labeled financial news sentences for fine-tuning/validation — [Link](https://huggingface.co/datasets/takala/financial_phrasebank)
   Real-time Tweets (Twitter/X): Collected via [X API](https://developer.x.com/en/docs/x-api), provides thousands of daily mentions for stocks such as AAPL, TSLA, etc.
   Market Data: Daily OHLC (open-high-low-close) and volume data from [Yahoo Finance](https://finance.yahoo.com/), typically spanning 10+ years, covering ~2500 data points per stock.
   
-- 2. Model Scale
+  - Model Scale
 
   FinBERT: A large pre-trained transformer model (~110M parameters) from [ProsusAI](https://huggingface.co/ProsusAI/finbert), used for sentiment inference.
   Prediction Layer: Logistic Regression or XGBoost over engineered time-series and sentiment features. Optional RNNs or ensembles for more complexity.
