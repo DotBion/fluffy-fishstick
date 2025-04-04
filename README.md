@@ -46,7 +46,7 @@ Model Scale
 | Ronit Gehani       | Data pipeline, MLflow, FSDP                 | [Link](#) |
 | Deeptanshu Lnu     | Training pipeline, FinBERT optimization     | [Link](#) |
 | Aviraj Dongare     | CI/CD, GitHub Actions, Infra-as-Code        | [Link](#) |
-| Nobodit Choudhury  | FastAPI backend, serving infra              | [Link](#) |
+| Nobodit Choudhury  | FastAPI backend, serving infra              | [Link](https://github.com/DotBion/fluffy-fishstick/commits/main/?author=DotBion) |
 
 
 ---
@@ -140,6 +140,6 @@ This project is intended for academic and research purposes only. All third-part
 
 ## ✨ Live Demo / API Endpoint
 
-> Coming soon: [https://your-chameleon-ip](https://your-chameleon-ip)
+> Coming soon: [Link](#)
 
 ---
