@@ -1,0 +1,6 @@
+Title: Intel Says New Gaudi 3 AI Chips Top Nvidia H100s in Speed and Cost
+Publish Date: None
+Authors: 
+URL: https://hardware.slashdot.org/story/24/04/09/2030216/intel-says-new-gaudi-3-ai-chips-top-nvidia-h100s-in-speed-and-cost
+
+Intel on Tuesday unveiled its new "Gaudi 3" AI chip that the company claims is over twice as power-efficient and can run AI models one-and-a-half times faster than Nvidia's H100 GPU . "It also comes in different configurations like a bundle of eight Gaudi 3 chips on one motherboard or a card that can slot into existing systems," adds CNBC. From the report:

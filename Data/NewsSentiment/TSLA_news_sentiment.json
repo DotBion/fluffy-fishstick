@@ -1,0 +1,3052 @@
+{
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "Why Li Auto Stock Is Tumbling Today",
+            "url": "https://www.fool.com/investing/2024/04/22/why-li-auto-stock-is-tumbling-today/",
+            "time_published": "20240422T165624",
+            "authors": [
+                "Scott Levine"
+            ],
+            "summary": "There's more than one reason why investors are keeping their distance from this EV stock today.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/773832/drivers-charge-an-electric-car.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": -0.086572,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LI",
+                    "relevance_score": "0.854693",
+                    "ticker_sentiment_score": "-0.132656",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.337811",
+                    "ticker_sentiment_score": "-0.210028",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "-0.068573",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Layoffs Hit Marketing Team, Retracts Advertising Push - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/news/24/04/38361822/tesla-layoffs-hit-marketing-team-retracts-advertising-push",
+            "time_published": "20240422T164902",
+            "authors": [
+                "Anusuya Lahiri"
+            ],
+            "summary": "Tesla Inc TSLA eliminated a recently established marketing team, moving away from a move towards traditional advertising that CEO Elon Musk had approved less than a year earlier, as part of broader company layoffs.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/Tesla-CEO-Elon-Musk_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.839681"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.089008,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.739411",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Delta Air Lines gives staff another 5% raise, hikes starting wages to $19 an hour",
+            "url": "https://www.cnbc.com/2024/04/22/delta-air-lines-gives-staff-another-5percent-raise-hikes-starting-wages.html",
+            "time_published": "20240422T163557",
+            "authors": [
+                "Leslie Josephs"
+            ],
+            "summary": "Delta is the country's most profitable airline and has repeatedly lifted staff pay.",
+            "banner_image": "https://image.cnbcfm.com/api/v1/image/106992952-16402055912021-12-22t203235z_2004622914_rc2rjr9yniq8_rtrmadp_0_usa-holiday-travel.jpeg?v=1713804346&w=1920&h=1080",
+            "source": "CNBC",
+            "category_within_source": "Business",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.078887,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.148731",
+                    "ticker_sentiment_score": "0.146586",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.29234",
+                    "ticker_sentiment_score": "0.324453",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.148731",
+                    "ticker_sentiment_score": "0.146586",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.148731",
+                    "ticker_sentiment_score": "-0.130081",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.148731",
+                    "ticker_sentiment_score": "0.146586",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DAL",
+                    "relevance_score": "0.148731",
+                    "ticker_sentiment_score": "0.084669",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Ex-JetBlue CEO Robin Hayes to run Airbus North America",
+            "url": "https://www.cnbc.com/2024/04/22/ex-jetblue-ceo-robin-hayes-to-run-airbus-north-america-.html",
+            "time_published": "20240422T162051",
+            "authors": [
+                "Leslie Josephs"
+            ],
+            "summary": "The recently departed CEO will be managing relationships with customers in North America, including his former airline and Spirit.",
+            "banner_image": "https://image.cnbcfm.com/api/v1/image/107217250-1680113702697-gettyimages-1249903353-JETBLUE_HAYES.jpeg?v=1713800833&w=1920&h=1080",
+            "source": "CNBC",
+            "category_within_source": "Business",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.055133,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.153694",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "EADSF",
+                    "relevance_score": "0.31482",
+                    "ticker_sentiment_score": "0.051118",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.31482",
+                    "ticker_sentiment_score": "0.342614",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "JBLU",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.153694",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "-0.136409",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.153694",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SAVE",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "-0.157341",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "DAL",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.040862",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What's Going On With XPeng Stock? - XPeng  ( NYSE:XPEV ) ",
+            "url": "https://www.benzinga.com/news/24/04/38360990/whats-going-on-with-xpeng-stock",
+            "time_published": "20240422T160443",
+            "authors": [
+                "Erica Kollmann"
+            ],
+            "summary": "XPeng Inc. XPEV shares are trading lower Monday after Tesla, Inc. TSLA and Li Auto, Inc. LI reduced electric vehicle prices in China. Several EV-makers have introduced new price cuts in China, sparking a price war among EV manufacturers.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/XpengG62023-site-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.503496"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.155658,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XPEV",
+                    "relevance_score": "0.608634",
+                    "ticker_sentiment_score": "0.203081",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LI",
+                    "relevance_score": "0.28664",
+                    "ticker_sentiment_score": "-0.073821",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.28664",
+                    "ticker_sentiment_score": "-0.082466",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Who Is Satoshi Nakamoto, The Creator of Bitcoin?",
+            "url": "https://decrypt.co/resources/satoshi-nakamoto",
+            "time_published": "20240422T160054",
+            "authors": [
+                "Stephen Graves",
+                "Matt Hussey"
+            ],
+            "summary": "The identity of Bitcoin's pseudonymous creator remains a mystery to this day-but that hasn't stopped people from guessing.",
+            "banner_image": "https://img.decrypt.co/insecure/rs:fit:3840:0:0:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/statue-of-satoshi.jpeg@webp",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.021436,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.02118",
+                    "ticker_sentiment_score": "-0.011562",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.02118",
+                    "ticker_sentiment_score": "-0.011562",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRCW",
+                    "relevance_score": "0.02118",
+                    "ticker_sentiment_score": "0.057906",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.02118",
+                    "ticker_sentiment_score": "0.057906",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.815635",
+                    "ticker_sentiment_score": "-0.004066",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.042346",
+                    "ticker_sentiment_score": "-0.014722",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What's Going On With Rivian Stock? - Rivian Automotive  ( NASDAQ:RIVN ) ",
+            "url": "https://www.benzinga.com/news/24/04/38360378/whats-going-on-with-rivian-stock",
+            "time_published": "20240422T153336",
+            "authors": [
+                "Henry Khederian"
+            ],
+            "summary": "Rivian Automotive Inc RIVN shares are trading lower by 1.5% to $8.50 during Monday's session. The EV sector may be trading lower in sympathy with Tesla Inc after the company reduced vehicle prices in the United States, Germany and China.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/analysis-4937349.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.045719,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "RIVN",
+                    "relevance_score": "0.674691",
+                    "ticker_sentiment_score": "-0.045192",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.256989",
+                    "ticker_sentiment_score": "-0.067183",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What's Going On With Luxury EV-Maker Lucid's Stock? - Lucid Gr  ( NASDAQ:LCID ) ",
+            "url": "https://www.benzinga.com/news/24/04/38360358/whats-going-on-with-luxury-ev-maker-lucids-stock",
+            "time_published": "20240422T153218",
+            "authors": [
+                "Erica Kollmann"
+            ],
+            "summary": "Lucid Group, Inc. LCID shares are trading lower Monday after Telsa, Inc. TSLA and other EV-makers announced new rounds of price cuts. Tesla and Li Auto, Inc. LI are among the major EV-makers to announce more price cuts in the past several days.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/lucid-air-sapphire-salt-flats-front.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.092808,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LCID",
+                    "relevance_score": "0.892763",
+                    "ticker_sentiment_score": "0.186298",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.159569",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.31282",
+                    "ticker_sentiment_score": "-0.183517",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "LI",
+                    "relevance_score": "0.454174",
+                    "ticker_sentiment_score": "-0.222146",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "New York Stock Exchange mulls 24-hour trading - a move Steve Cohen may welcome",
+            "url": "https://www.businessinsider.com/new-york-stock-exchange-24-hour-trading-steve-cohen-startup-2024-4",
+            "time_published": "20240422T151400",
+            "authors": [
+                "George Glover"
+            ],
+            "summary": "NYSE mulls 24-hour trading - a move Steve Cohen may welcome - Business Insider ...",
+            "banner_image": null,
+            "source": "Business Insider",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999982"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.177846,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GME",
+                    "relevance_score": "0.107495",
+                    "ticker_sentiment_score": "0.071039",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.107495",
+                    "ticker_sentiment_score": "0.071039",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Seasonal Market Trends and Big Tech Earnings Impact: Analysis of...",
+            "url": "https://moneymorning.com/2024/04/22/wasting-valuable-time/",
+            "time_published": "20240422T150644",
+            "authors": [
+                "Chris Johnson"
+            ],
+            "summary": "Seasonal trends are just that for a reason. They tend to repeat regularly enough that they become reliable enough to trade. But the market has spent the last seven weeks moving through one of the strongest seasonal periods of the year, and it feels like it's been wasted.",
+            "banner_image": "https://moneymorning.com/wp-content/blogs.dir/1/files/2024/04/image.png",
+            "source": "Money Morning",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "moneymorning.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.036069,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.299478",
+                    "ticker_sentiment_score": "0.167998",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.102013",
+                    "ticker_sentiment_score": "0.181073",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.299478",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.299478",
+                    "ticker_sentiment_score": "0.167998",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Is It Time to Sell Tesla Stock and Look Elsewhere?",
+            "url": "https://www.fool.com/investing/2024/04/22/is-it-time-to-sell-tesla-stock-and-look-elsewhere/",
+            "time_published": "20240422T150310",
+            "authors": [
+                "Neil Rozenbaum"
+            ],
+            "summary": "Here's everything you need to know about the electric vehicle maker's week.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/773782/getty-investing-time-to-sell.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.0,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.967875",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "UAW scores historic win in South at VW plant",
+            "url": "https://theweek.com/business/volkswagen-UAW-vote-workers-union",
+            "time_published": "20240422T150143",
+            "authors": [
+                "Peter Weber",
+                "The Week US"
+            ],
+            "summary": "A Volkswagen auto plant in Chattanooga, Tennessee, voted to join the United Auto Workers union, giving the UAW its first modern toehold in the \"right to work\" South and its first successful unionization at a foreign-owned automaker in the region.",
+            "banner_image": "https://cdn.mos.cms.futurecdn.net/flexiimages/jacafc5zvs1692883516-320-80.jpg",
+            "source": "The Week News",
+            "category_within_source": "n/a",
+            "source_domain": "theweek.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.050917,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NYT",
+                    "relevance_score": "0.059785",
+                    "ticker_sentiment_score": "0.033994",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FRNWF",
+                    "relevance_score": "0.059785",
+                    "ticker_sentiment_score": "0.058996",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.059785",
+                    "ticker_sentiment_score": "-0.551618",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Q1 Earnings Season Gathers Pace",
+            "url": "https://www.zacks.com/stock/news/2259374/q1-earnings-season-gathers-pace",
+            "time_published": "20240422T145000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "We again have an eventful week for the stock market. As the S&P 500 tries to shake its three-week losing streak, we see sky-high valuations and record-high closings have given way to a more concerned, meditative trading sentiment.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/67/2662.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.028436,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.154455",
+                    "ticker_sentiment_score": "0.023114",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.154455",
+                    "ticker_sentiment_score": "0.023114",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.154455",
+                    "ticker_sentiment_score": "0.023114",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VZ",
+                    "relevance_score": "0.154455",
+                    "ticker_sentiment_score": "0.031325",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.154455",
+                    "ticker_sentiment_score": "0.023114",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.154455",
+                    "ticker_sentiment_score": "0.023114",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PEP",
+                    "relevance_score": "0.154455",
+                    "ticker_sentiment_score": "0.023114",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Dow Jones Up After Ukraine-Israel Aid; Elon Musk Says This Amid More Tesla Price Cuts",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-nasdaq-sp500-nvidia-tesla-stock-2/",
+            "time_published": "20240422T144700",
+            "authors": [
+                "MICHAEL LARKIN",
+                "Investor's Business Daily"
+            ],
+            "summary": "Dow Jones Up After Ukraine-Israel Aid. Elon Musk Says This Amid More Tesla Price Cuts Investor's Business Daily ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2021/06/Stock-elonmusk-02-shutt.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999612"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.917436"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.142857"
+                }
+            ],
+            "overall_sentiment_score": 0.146136,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MARA",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "-0.218314",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.039944",
+                    "ticker_sentiment_score": "0.088156",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.120016",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.197735",
+                    "ticker_sentiment_score": "0.190384",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.120016",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VZ",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "-0.198817",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "RSG",
+                    "relevance_score": "0.119433",
+                    "ticker_sentiment_score": "0.235776",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LVS",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "-0.027748",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.223448",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "HEI",
+                    "relevance_score": "0.119433",
+                    "ticker_sentiment_score": "0.282982",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.120016",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WHD",
+                    "relevance_score": "0.158781",
+                    "ticker_sentiment_score": "0.293797",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.197735",
+                    "ticker_sentiment_score": "-0.076572",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RIOT",
+                    "relevance_score": "0.119433",
+                    "ticker_sentiment_score": "0.104788",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.083931",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.2741",
+                    "ticker_sentiment_score": "0.129979",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk Is A 'Great Engineer Better Off With Tesla And SpaceX, Not Buying Twitter,' Says Biographer Walter Isaacson",
+            "url": "https://www.benzinga.com/general/24/04/38358701/elon-musk-is-a-great-engineer-better-off-with-tesla-and-spacex-not-buying-twitter-says-biographer-wa",
+            "time_published": "20240422T143602",
+            "authors": [
+                "Caleb Naysmith"
+            ],
+            "summary": "Walter Isaacson, known for his in-depth biographies of historical figures, suggested that Tesla Inc. CEO Elon Musk's logical and systematic approach to problem-solving significantly contributes to his success in engineering-focused industries such as electric vehicles and aerospace technologies.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/Los-Angeles--Usa--April-13--2024-Elon-Mu_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.224888,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.069294",
+                    "ticker_sentiment_score": "0.089822",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.138066",
+                    "ticker_sentiment_score": "0.294108",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Former GOP Candidate Recounts Giving Don Lemon An On-Air History Lesson: '\u2026Caused Him To Lose His Mind",
+            "url": "https://www.benzinga.com/news/24/04/38358350/former-gop-candidate-recounts-giving-don-lemon-an-on-air-history-lesson-caused-him-to-lose-his-mind",
+            "time_published": "20240422T142939",
+            "authors": [
+                "Pooja Rajkumari"
+            ],
+            "summary": "In a recent revelation, former GOP presidential candidate Vivek Ramaswamy has shed light on an interview that reportedly led to the firing of anchor Don Lemon from CNN What Happened: Ramaswamy, in a podcast episode of Jordan B. Peterson, detailed his encounter with Lemon during one of his early ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/Vivek-Shutterstock.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.056394,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.549581",
+                    "ticker_sentiment_score": "-0.287031",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.149656",
+                    "ticker_sentiment_score": "-0.454261",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Busy Week Hoping to Shake Some Life into Markets",
+            "url": "https://www.zacks.com/stock/news/2259354/busy-week-hoping-to-shake-some-life-into-markets",
+            "time_published": "20240422T142900",
+            "authors": [
+                "Mark Vickery"
+            ],
+            "summary": "Much of what concerns us will have been addressed by the end of the week, including important economic reports and Q1 earnings season hitting a higher gear.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ff/65467.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.682689"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.026046,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.149656",
+                    "ticker_sentiment_score": "0.022673",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.149656",
+                    "ticker_sentiment_score": "0.022673",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.149656",
+                    "ticker_sentiment_score": "0.022673",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VZ",
+                    "relevance_score": "0.149656",
+                    "ticker_sentiment_score": "0.028125",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.149656",
+                    "ticker_sentiment_score": "0.022673",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.149656",
+                    "ticker_sentiment_score": "0.022673",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PEP",
+                    "relevance_score": "0.149656",
+                    "ticker_sentiment_score": "0.022673",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What's Going On With Chinese EV-Maker Li Auto's Stock? - Li Auto  ( NASDAQ:LI ) ",
+            "url": "https://www.benzinga.com/news/24/04/38358300/whats-going-on-with-chinese-ev-maker-li-autos-stock",
+            "time_published": "20240422T142422",
+            "authors": [
+                "Erica Kollmann"
+            ],
+            "summary": "Li Auto Inc. LI shares are trading lower Monday after the company reportedly cut prices on four of its five models amid an EV price war. Li Auto announced on Monday that it has cut prices by approximately 5% on its L7, Li L8, Li L9, and Li MEGA models.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/Li-Auto-Photo-by-Postmodern-Studio-on-Sh.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.064682,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LI",
+                    "relevance_score": "0.827318",
+                    "ticker_sentiment_score": "-0.008203",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.108466",
+                    "ticker_sentiment_score": "-0.054893",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.214937",
+                    "ticker_sentiment_score": "-0.242551",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Update: LiveOne  ( Nasdaq: LVO )  Anticipates Record Q4 and FY24 Results",
+            "url": "https://www.globenewswire.com/news-release/2024/04/22/2867011/0/en/Update-LiveOne-Nasdaq-LVO-Anticipates-Record-Q4-and-FY24-Results.html",
+            "time_published": "20240422T142200",
+            "authors": [
+                "LiveOne",
+                "Inc."
+            ],
+            "summary": "- FY24: Expects $118.5M revenue, $14.4M Adjusted EBITDA* ( excluding $3.5M CPS division loss ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/813ba161-8e87-466d-80d4-a7754e2fc893",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999975"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.182024,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.023556",
+                    "ticker_sentiment_score": "0.089709",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ROKU",
+                    "relevance_score": "0.023556",
+                    "ticker_sentiment_score": "0.089709",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PODC",
+                    "relevance_score": "0.047092",
+                    "ticker_sentiment_score": "0.11527",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.023556",
+                    "ticker_sentiment_score": "0.129061",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LVO",
+                    "relevance_score": "0.342172",
+                    "ticker_sentiment_score": "0.169992",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.023556",
+                    "ticker_sentiment_score": "0.089709",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Bears Drive EV Stock To New 52-Week Lows: Will Q1 Earnings Shift Gears? - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/04/38358269/tesla-bears-drive-ev-stock-to-new-52-week-lows-will-q1-earnings-shift-gears",
+            "time_published": "20240422T142146",
+            "authors": [
+                "Surbhi Jain"
+            ],
+            "summary": "Tesla Inc TSLA will report first-quarter earnings on April 23 after market hours. Wall Street expects 51 cents in EPS and $21.27 billion in revenues. Recorded a new 52-week low of $146.22 on April 19; shares close at $147.05. Tesla Challenges: Layoffs are among the recent reasons Tesla stock is ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/Tesla-Bear.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.459462"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.0961,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.813694",
+                    "ticker_sentiment_score": "-0.244004",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Market Clubhouse Morning Memo - April 22nd, 2024  ( Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA )  - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
+            "url": "https://www.benzinga.com/trading-ideas/24/04/38358078/market-clubhouse-morning-memo-april-22nd-2024-trade-strategy-for-spy-qqq-aapl-msft-nvda-googl-meta",
+            "time_published": "20240422T141341",
+            "authors": [
+                "RIPS"
+            ],
+            "summary": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA. Our proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account price, volume, and options flow.",
+            "banner_image": "https://cdn.benzinga.com/files/market-clubhouse-morning-memo_208.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.882182"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.180102,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.149285",
+                    "ticker_sentiment_score": "0.008242",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.030026",
+                    "ticker_sentiment_score": "0.074349",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.089909",
+                    "ticker_sentiment_score": "0.137113",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.149285",
+                    "ticker_sentiment_score": "0.008033",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.149285",
+                    "ticker_sentiment_score": "0.193975",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "3 Dividend Aristocrats to Take the Edge off Market Volatility",
+            "url": "https://www.zacks.com/stock/news/2259379/3-dividend-aristocrats-to-take-the-edge-off-market-volatility",
+            "time_published": "20240422T135700",
+            "authors": [
+                "Tirthankar Chakraborty"
+            ],
+            "summary": "With markets remaining topsy-turvy, it's prudent for astute investors to pick dividend aristocrats like Atmos Energy (ATO), Ecolab (ECL) and SherwinWilliams (SHW) for steady income.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/8d/59986.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99393"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.9973"
+                }
+            ],
+            "overall_sentiment_score": 0.14301,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.052685",
+                    "ticker_sentiment_score": "0.057558",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.052685",
+                    "ticker_sentiment_score": "0.057558",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.052685",
+                    "ticker_sentiment_score": "0.057558",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.052685",
+                    "ticker_sentiment_score": "0.057558",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SHW",
+                    "relevance_score": "0.105141",
+                    "ticker_sentiment_score": "0.063489",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.052685",
+                    "ticker_sentiment_score": "0.057558",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ATO",
+                    "relevance_score": "0.308246",
+                    "ticker_sentiment_score": "0.341404",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AEXAF",
+                    "relevance_score": "0.105141",
+                    "ticker_sentiment_score": "0.180762",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ECL",
+                    "relevance_score": "0.308246",
+                    "ticker_sentiment_score": "0.292166",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tesla stock hits 52-week low, extends 2024 decline to 43% after another round of price cuts",
+            "url": "https://markets.businessinsider.com/news/stocks/tesla-stock-vehicle-model-y-price-cuts-tsla-elon-musk-2024-4",
+            "time_published": "20240422T134400",
+            "authors": [
+                "Matthew Fox"
+            ],
+            "summary": "Tesla Stock Price Hits 52-Week Low After Another Round of Price Cuts - Markets Insider ...",
+            "banner_image": null,
+            "source": "Business Insider",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "markets.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.209159,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LI",
+                    "relevance_score": "0.187463",
+                    "ticker_sentiment_score": "-0.168389",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.764287",
+                    "ticker_sentiment_score": "-0.331751",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk Reacts To Tucker Carlson Saying There's 'Ton Of Evidence' That Aliens Live Among Us: 'With 6000 Satellites Orbiting Earth, I Think I Would Know'",
+            "url": "https://www.benzinga.com/news/24/04/38357333/elon-musk-reacts-to-tucker-carlson-saying-theres-ton-of-evidence-that-aliens-live-among-us-with-6000",
+            "time_published": "20240422T134252",
+            "authors": [
+                "Rounak Jain"
+            ],
+            "summary": "Tesla Inc. CEO and SpaceX founder Elon Musk dismissed Tucker Carlson's statement that aliens are living among us on Earth. What Happened: Musk shared his thoughts on the existence of aliens, stating that he has seen no evidence despite the numerous satellites orbiting Earth.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/Elon-Musk-Tucker-Carlson.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.121084,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FOX",
+                    "relevance_score": "0.122894",
+                    "ticker_sentiment_score": "0.074196",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.122894",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Chinese EV manufacturers may be excluded from India's policy concessions",
+            "url": "https://www.business-standard.com/industry/auto/chinese-ev-manufacturers-may-be-excluded-from-india-s-policy-concessions-124042200952_1.html",
+            "time_published": "20240422T133541",
+            "authors": [
+                "Vasudha Mukherjee"
+            ],
+            "summary": "Concessions outlined in India's electric vehicle ( EV ) policy, aimed at attracting global players like Tesla Inc, may not extend to Chinese companies.",
+            "banner_image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-04/02/full/1712080625-3734.jpg?im=FeatureCrop,size=(826,465)",
+            "source": "Business Standard",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.business-standard.com",
+            "topics": [
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.365926"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.045294,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NEXOF",
+                    "relevance_score": "0.086245",
+                    "ticker_sentiment_score": "0.090449",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SZIHF",
+                    "relevance_score": "0.086245",
+                    "ticker_sentiment_score": "0.04773",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.171485",
+                    "ticker_sentiment_score": "-0.049023",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HYMLF",
+                    "relevance_score": "0.171485",
+                    "ticker_sentiment_score": "0.129973",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MAHMF",
+                    "relevance_score": "0.171485",
+                    "ticker_sentiment_score": "0.129973",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What's Going On With Tesla Stock Monday? - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/news/24/04/38357129/whats-going-on-with-tesla-stock-monday",
+            "time_published": "20240422T133154",
+            "authors": [
+                "Adam Eckert"
+            ],
+            "summary": "Tesla Inc TSLA shares are trading lower Monday after the company reduced vehicle prices in the U.S., Germany and China. What Happened: After the market close on Friday, Tesla introduced a fresh round of price cuts in the United States. The company cut the prices of its Model Y, Model X and Model ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/0x0-ModelS-09.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.714479"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.122132,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.940896",
+                    "ticker_sentiment_score": "-0.290534",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Is Elon Musk Forcing Everyone To View Tesla As An AI Company?",
+            "url": "https://www.investors.com/news/tesla-stock-elon-musk-an-ai-company-after-tesla-earnings/",
+            "time_published": "20240422T131100",
+            "authors": [
+                "KIT NORTON",
+                "Investor's Business Daily"
+            ],
+            "summary": "All eyes will be on Chief Executive Elon Musk Tuesday during Tesla's ( TSLA ) first-quarter earnings call as investors look for incite and clarity into his strategy and whether Musk is rebranding Tesla in plain sight. TSLA shares sank early Monday.",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2019/03/stock-Tesla-Model-Y-01-company.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.54554"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.99992"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.009552,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.030641",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.833287",
+                    "ticker_sentiment_score": "0.036913",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Olive oil: alternatives for the 'liquid gold'",
+            "url": "https://theweek.com/culture-life/food-drink/olive-oil-alternatives",
+            "time_published": "20240422T130011",
+            "authors": [
+                "Adrienne Wyper",
+                "The Week UK"
+            ],
+            "summary": "Like many other everyday foods, the price of olive oil has shot up in the past two years during the ongoing cost-of-living crisis. These \"eye-watering price increases\" mean that the \"average bottle has gone up by 89%\", said The Observer.",
+            "banner_image": "https://cdn.mos.cms.futurecdn.net/flexiimages/jacafc5zvs1692883516-320-80.jpg",
+            "source": "The Week News",
+            "category_within_source": "n/a",
+            "source_domain": "theweek.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.246041,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FRNWF",
+                    "relevance_score": "0.045224",
+                    "ticker_sentiment_score": "0.057853",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.045224",
+                    "ticker_sentiment_score": "-0.549609",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Colima 71 Art Community Hotel in Mexico City proudly presents its latest addition: a striking viral artwork by Chavis Marmol.",
+            "url": "https://www.benzinga.com/pressreleases/24/04/n38356293/colima-71-art-community-hotel-in-mexico-city-proudly-presents-its-latest-addition-a-striking-viral",
+            "time_published": "20240422T130000",
+            "authors": [
+                "PRNewswire"
+            ],
+            "summary": "MEXICO CITY, April 22, 2024 /PRNewswire/ -- Colima 71 Art Community Hotel in Mexico City proudly presents its latest addition: a striking viral artwork by Chavis Marmol. Though untitled, it has been affectionately dubbed \"Cabeza Olmeca Aplastando a un Tesla\" by the public.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.555356,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.304428",
+                    "ticker_sentiment_score": "0.531373",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Scotland Yard, Gaza and the politics of policing protests",
+            "url": "https://theweek.com/crime/scotland-yard-gaza-and-the-politics-of-policing-protests",
+            "time_published": "20240422T125409",
+            "authors": [
+                "The Week UK"
+            ],
+            "summary": "Scotland Yard and its beleaguered commissioner are under renewed scrutiny over their handling of Gaza protests in London. \"Britain's streets have become another frontier in the war between Israel and Hamas and often the police are being caught in the crossfire,\" said crime editor Ben Ellery in ...",
+            "banner_image": "https://cdn.mos.cms.futurecdn.net/flexiimages/jacafc5zvs1692883516-320-80.jpg",
+            "source": "The Week News",
+            "category_within_source": "n/a",
+            "source_domain": "theweek.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.209675,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FRNWF",
+                    "relevance_score": "0.037387",
+                    "ticker_sentiment_score": "0.056389",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.037387",
+                    "ticker_sentiment_score": "-0.547279",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "LiveOne  ( Nasdaq: LVO )  Anticipates Certain Record Q4 and FY24 Results",
+            "url": "https://www.globenewswire.com/news-release/2024/04/22/2866892/0/en/LiveOne-Nasdaq-LVO-Anticipates-Certain-Record-Q4-and-FY24-Results.html",
+            "time_published": "20240422T125400",
+            "authors": [
+                "Inc.",
+                "LiveOne"
+            ],
+            "summary": "- FY24: Expects $118.5M revenue, $14.4M Adjusted EBITDA* ( excluding $3.5M CPS division loss ...",
+            "banner_image": "https://ml.globenewswire.com/Resource/Download/813ba161-8e87-466d-80d4-a7754e2fc893",
+            "source": "GlobeNewswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.globenewswire.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999975"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.182024,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.023556",
+                    "ticker_sentiment_score": "0.089709",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ROKU",
+                    "relevance_score": "0.023556",
+                    "ticker_sentiment_score": "0.089709",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PODC",
+                    "relevance_score": "0.047092",
+                    "ticker_sentiment_score": "0.11527",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.023556",
+                    "ticker_sentiment_score": "0.129061",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LVO",
+                    "relevance_score": "0.342172",
+                    "ticker_sentiment_score": "0.169992",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.023556",
+                    "ticker_sentiment_score": "0.089709",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Democrats Lost A Whole Lot Of Love For Tesla Cars Last Fall After Elon Musk's Erratic Posts On X, Survey Reveals",
+            "url": "https://www.benzinga.com/news/24/04/38356025/democrats-lost-a-whole-lot-of-love-for-tesla-cars-last-fall-after-elon-musks-erratic-posts-on-x-surv",
+            "time_published": "20240422T125248",
+            "authors": [
+                "Anan Ashraf"
+            ],
+            "summary": "Despite the Democratic Party's advocacy for electric vehicles, the proportion of Democrats purchasing Tesla cars reportedly declined a lot last fall.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/Democrats.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.076913,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.688096",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Now's the time for Elon Musk to reveal his Tesla rescue plan - if he has one",
+            "url": "https://www.businessinsider.com/elon-musk-tesla-rescue-plan-price-cuts-electric-cars-earnings-2024-4",
+            "time_published": "20240422T123300",
+            "authors": [
+                "Hasan Chowdhury"
+            ],
+            "summary": "Time for Elon Musk's Tesla Rescue Plan - If He Has One - Business Insider ...",
+            "banner_image": null,
+            "source": "Business Insider",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.048992,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GM",
+                    "relevance_score": "0.059785",
+                    "ticker_sentiment_score": "0.15844",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.67044",
+                    "ticker_sentiment_score": "-0.064479",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Zacks Market Edge Highlights: Microsoft, NVIDIA, Sweetgreen, Constellation Energy and Rivian Automotive",
+            "url": "https://www.zacks.com/stock/news/2259139/zacks-market-edge-highlights-microsoft-nvidia-sweetgreen-constellation-energy-and-rivian-automotive",
+            "time_published": "20240422T122900",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Microsoft, NVIDIA, Sweetgreen, Constellation Energy and Rivian Automotive are part of the Zacks Market Edge article.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/fd/423.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.998682"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.235297,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.328611",
+                    "ticker_sentiment_score": "0.300504",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.414559",
+                    "ticker_sentiment_score": "0.022362",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "0.018127",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CEG",
+                    "relevance_score": "0.328611",
+                    "ticker_sentiment_score": "0.536096",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "MDNDF",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SBUX",
+                    "relevance_score": "0.048327",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SG",
+                    "relevance_score": "0.328611",
+                    "ticker_sentiment_score": "0.300331",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "RIVN",
+                    "relevance_score": "0.144275",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "If You Had Invested $1000 In Tesla Stock When EV Giant Entered China Exactly 10 Years Ago, Here's How Much You'd Have Now If You Had Invested $1000 In Tesla Stock When EV Giant Entered China Exactly 10 Years Ago, Here's How Much You'd Have Now - NIO  ( NYSE:NIO ) , Li Auto  ( NASDAQ:LI ) ",
+            "url": "https://www.benzinga.com/markets/equities/24/04/38355310/if-you-had-invested-1000-in-tesla-stock-when-ev-giant-entered-china-exactly-10-years-ago-heres-h",
+            "time_published": "20240422T122501",
+            "authors": [
+                "Ramakrishnan M"
+            ],
+            "summary": "EV giant Tesla, Inc. TSLA is going through a rough patch as CEO Elon Musk pushes his \"blindingly obvious\" robotaxi vision through a sea of skepticism amid a slowdown in the EV industry marked by price wars, bankruptcies and job cuts.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/Chengdu--Sichuan-----China---February-04.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.250525,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XPEV",
+                    "relevance_score": "0.200688",
+                    "ticker_sentiment_score": "0.119299",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.626443",
+                    "ticker_sentiment_score": "0.230622",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BYDDF",
+                    "relevance_score": "0.101154",
+                    "ticker_sentiment_score": "0.069172",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LI",
+                    "relevance_score": "0.297061",
+                    "ticker_sentiment_score": "0.260271",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NIO",
+                    "relevance_score": "0.200688",
+                    "ticker_sentiment_score": "0.119299",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Futures Rebound From Last Week's Losses",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-stock-tesla-tsla-2/",
+            "time_published": "20240422T122100",
+            "authors": [
+                "Investor's Business Daily",
+                "SCOTT LEHTONEN"
+            ],
+            "summary": "Stock Market Today: Dow Jones Rises As Nvidia Rebounds. Tesla Dives On Price Cuts Investor's Business Daily ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2021/09/Stock-wallstreetflag-01-adobe.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.140113,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.086245",
+                    "ticker_sentiment_score": "-0.230378",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.043186",
+                    "ticker_sentiment_score": "0.176321",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.129052",
+                    "ticker_sentiment_score": "0.013264",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.171485",
+                    "ticker_sentiment_score": "-0.159791",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "VZ",
+                    "relevance_score": "0.213423",
+                    "ticker_sentiment_score": "0.003443",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.129052",
+                    "ticker_sentiment_score": "0.167628",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.043186",
+                    "ticker_sentiment_score": "0.114698",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla, Meta Platforms, Microsoft and Alphabet are part of Zacks Earnings Preview",
+            "url": "https://www.zacks.com/stock/news/2259128/tesla-meta-platforms-microsoft-and-alphabet-are-part-of-zacks-earnings-preview",
+            "time_published": "20240422T121700",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Tesla, Meta Platforms, Microsoft and Alphabet are highlights of Zacks Earnings Preview article.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e6/1979.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.918141"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999996"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.164695,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.286864",
+                    "ticker_sentiment_score": "0.186739",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.13548",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.286864",
+                    "ticker_sentiment_score": "0.205975",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Tesla, Li Auto And Other Big Stocks Moving Lower In Monday's Pre-Market Session - iLearningEngines  ( NASDAQ:AILE ) , Adlai Nortye  ( NASDAQ:ANL ) ",
+            "url": "https://www.benzinga.com/news/24/04/38354676/tesla-li-auto-and-other-big-stocks-moving-lower-in-mondays-pre-market-session",
+            "time_published": "20240422T120407",
+            "authors": [
+                "Avi Kapoor"
+            ],
+            "summary": "U.S. stock futures were higher this morning, with the Dow futures gaining over 150 points on Monday. Shares of Tesla, Inc. TSLA fell sharply in today's pre-market trading after the company reduced vehicle prices in the US, Germany and China.",
+            "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.5855"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.029951,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "INFA",
+                    "relevance_score": "0.272788",
+                    "ticker_sentiment_score": "-0.07154",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.616842",
+                    "ticker_sentiment_score": "-0.167358",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "CDE",
+                    "relevance_score": "0.272788",
+                    "ticker_sentiment_score": "0.288418",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MNDR",
+                    "relevance_score": "0.272788",
+                    "ticker_sentiment_score": "-0.363129",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "LI",
+                    "relevance_score": "0.272788",
+                    "ticker_sentiment_score": "-0.227739",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AILE",
+                    "relevance_score": "0.272788",
+                    "ticker_sentiment_score": "-0.368235",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "ANL",
+                    "relevance_score": "0.272788",
+                    "ticker_sentiment_score": "-0.094103",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "ETF Winners Amid Last Week's Record Loss in \"Magnificent 7\"",
+            "url": "https://www.zacks.com/stock/news/2258961/etf-winners-amid-last-weeks-record-loss-in-magnificent-7",
+            "time_published": "20240422T120000",
+            "authors": [
+                "Sanghamitra Saha"
+            ],
+            "summary": "Last week witnessed the largest collective loss for the \"Magnificent Seven\" technology-related stocks due to higher rates and rich valuation of those stocks.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default339.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999996"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.012164,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.137148",
+                    "ticker_sentiment_score": "0.00249",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.045918",
+                    "ticker_sentiment_score": "0.037851",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.045918",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "-0.164829",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.137148",
+                    "ticker_sentiment_score": "-0.092166",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.182162",
+                    "ticker_sentiment_score": "0.034562",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "-0.173159",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.045918",
+                    "ticker_sentiment_score": "0.037851",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "-0.202677",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Why everyone wants a mayor",
+            "url": "https://theweek.com/politics/why-everyone-wants-a-mayor",
+            "time_published": "20240422T113829",
+            "authors": [
+                "Chas Newkey-Burden",
+                "The Week UK"
+            ],
+            "summary": "Mayors are more recognisable than MPs and local authority leaders in almost every area that has one, a new study has found.",
+            "banner_image": "https://cdn.mos.cms.futurecdn.net/flexiimages/jacafc5zvs1692883516-320-80.jpg",
+            "source": "The Week News",
+            "category_within_source": "n/a",
+            "source_domain": "theweek.com",
+            "topics": [
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.078971,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FRNWF",
+                    "relevance_score": "0.037563",
+                    "ticker_sentiment_score": "0.056428",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.037563",
+                    "ticker_sentiment_score": "-0.547355",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Daily: What's Next For TikTok? House Moves On Potential Ban",
+            "url": "https://www.forbes.com/sites/daniellechemtob/2024/04/22/forbes-daily-whats-next-for-tiktok-house-moves-on-potential-ban/",
+            "time_published": "20240422T112603",
+            "authors": [
+                "Danielle Chemtob"
+            ],
+            "summary": "This is a published version of the Forbes Daily newsletter, you can sign-up to get Forbes Daily in your inbox here. Stay-at-home parents may not hold a full-time job, but they work just as much, if not more, than someone with a 9-to-5.",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/662642a32f7c846db1331cc0/0x0.jpg?format=jpg&crop=2315,1301,x0,y33,safe&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.038429,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MGAWF",
+                    "relevance_score": "0.116489",
+                    "ticker_sentiment_score": "0.050843",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EADSF",
+                    "relevance_score": "0.02922",
+                    "ticker_sentiment_score": "-0.178845",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.02922",
+                    "ticker_sentiment_score": "0.107122",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.058401",
+                    "ticker_sentiment_score": "0.098001",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.02922",
+                    "ticker_sentiment_score": "-0.16422",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "ALGGF",
+                    "relevance_score": "0.02922",
+                    "ticker_sentiment_score": "0.026477",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Investors are fearful. They shouldn't be | Business",
+            "url": "https://amp.cnn.com/cnn/2024/04/22/investing/premarket-stocks-trading",
+            "time_published": "20240422T112500",
+            "authors": [
+                "Nicole Goodkind"
+            ],
+            "summary": "Investors are fearful. They shouldn't be ...",
+            "banner_image": "https://media.cnn.com/api/v1/images/stellar/prod/ap24081526556860-20240412184620717.jpg?c=16x9&q=w_800,c_fill",
+            "source": "CNN",
+            "category_within_source": "Economy",
+            "source_domain": "amp.cnn.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.124373,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.032207",
+                    "ticker_sentiment_score": "0.047559",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.128306",
+                    "ticker_sentiment_score": "-0.023442",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Analysis: Investors are fearful. They shouldn't be | Business",
+            "url": "https://www.cnn.com/2024/04/22/investing/premarket-stocks-trading/index.html",
+            "time_published": "20240422T112500",
+            "authors": [
+                "Nicole Goodkind"
+            ],
+            "summary": "Investors are fearful. They shouldn't be ...",
+            "banner_image": "https://media.cnn.com/api/v1/images/stellar/prod/ap24081526556860-20240412184620717.jpg?c=16x9&q=w_800,c_fill",
+            "source": "CNN",
+            "category_within_source": "Markets",
+            "source_domain": "www.cnn.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.124373,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.032207",
+                    "ticker_sentiment_score": "0.047559",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.128306",
+                    "ticker_sentiment_score": "-0.023442",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Stock Set To Open At Fresh 15-Month Lows: What's Draining EV Maker's Charge? - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/markets/equities/24/04/38353956/tesla-stock-set-to-open-at-fresh-15-month-lows-whats-draining-ev-makers-charge",
+            "time_published": "20240422T112426",
+            "authors": [
+                "Shanthi Rexaline"
+            ],
+            "summary": "The Tesla, Inc. TSLA sell-off could continue unabated as the stock traded sharply lower in premarket trading on Monday. The negativity is attributable to the company's resumption of price cuts - a strategy shunned by analysts as margin-eroding.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/Ny--March-05--Tesla-Motors-Inc-Logo-Disp.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.714479"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.110597,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.716023",
+                    "ticker_sentiment_score": "-0.269404",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Tesla cuts prices in 'intensifying' EV war",
+            "url": "https://theweek.com/business/tesla-cuts-prices-ev-war-elon-musk",
+            "time_published": "20240422T105427",
+            "authors": [
+                "The Week UK",
+                "Rebecca Messina",
+                "Arion McNicoll"
+            ],
+            "summary": "Tesla has slashed the price of its line-up around the world amid what The Guardian called an \"intensifying war\" for electric vehicles ( EVs ) . The company announced reduced price tags for the best-selling Model Y, and the older Model X and Model S in the US market on Friday.",
+            "banner_image": "https://cdn.mos.cms.futurecdn.net/flexiimages/jacafc5zvs1692883516-320-80.jpg",
+            "source": "The Week News",
+            "category_within_source": "n/a",
+            "source_domain": "theweek.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.048483,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "WBD",
+                    "relevance_score": "0.046006",
+                    "ticker_sentiment_score": "0.10649",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FRNWF",
+                    "relevance_score": "0.046006",
+                    "ticker_sentiment_score": "0.057966",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.313674",
+                    "ticker_sentiment_score": "-0.236483",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Tesla Shares Slide Further After Price Cuts In Major Markets Over The Weekend",
+            "url": "https://www.forbes.com/sites/roberthart/2024/04/22/tesla-shares-slide-further-after-price-cuts-in-major-markets-over-the-weekend/",
+            "time_published": "20240422T104758",
+            "authors": [
+                "Robert Hart"
+            ],
+            "summary": "Tesla Falls Further After Tough Weekend Cutting Prices In Major Markets Forbes ...",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/66263e957bb6d1c43806d813/0x0.jpg?format=jpg&crop=3840,2159,x313,y376,safe&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.045878,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.500995",
+                    "ticker_sentiment_score": "0.061275",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "This Is My Pick for the Best Artificial Intelligence  ( AI )  Stock You've Never Heard Of",
+            "url": "https://www.fool.com/investing/2024/04/22/my-pick-for-the-best-artificial-intelligence-stock/",
+            "time_published": "20240422T104500",
+            "authors": [
+                "Adam Spatacco"
+            ],
+            "summary": "The \"Magnificent Seven\" may dominate AI headlines, but a smaller player is emerging as a rising force in artificial intelligence (AI).",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F773444%2Fgettyimages-1453843862.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.300047,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.054732",
+                    "ticker_sentiment_score": "0.314998",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.054732",
+                    "ticker_sentiment_score": "0.314998",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.054732",
+                    "ticker_sentiment_score": "0.314998",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.054732",
+                    "ticker_sentiment_score": "0.314998",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NOW",
+                    "relevance_score": "0.663497",
+                    "ticker_sentiment_score": "0.425791",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "S&P 500, Nasdaq To Open In The Green Today: What's Pushing Stock Futures Higher? - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , SPDR S&P 500  ( ARCA:SPY ) ",
+            "url": "https://www.benzinga.com/news/earnings/24/04/38353173/us-stocks-set-to-open-fresh-week-higher-on-big-tech-earnings-hopes-analyst-warns-any-letdown-could-",
+            "time_published": "20240422T104458",
+            "authors": [
+                "Shanthi Rexaline"
+            ],
+            "summary": "Wall Street appears to be shrugging off rate worries as major stock index futures were moderately higher in early pre-market trading on Monday in the hopes of getting some respite from Big Tech earnings.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/Nyc-ny---usa-may-27-2019-Nasdaq-Sign-In-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.166667"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.769861"
+                }
+            ],
+            "overall_sentiment_score": 0.004848,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.048327",
+                    "ticker_sentiment_score": "-0.084964",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "-0.008754",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMP",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VZ",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "0.126473",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ACI",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "0.126473",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ZIONL",
+                    "relevance_score": "0.048327",
+                    "ticker_sentiment_score": "0.118922",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PKG",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.144275",
+                    "ticker_sentiment_score": "-0.169",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "DGX",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LPLA",
+                    "relevance_score": "0.048327",
+                    "ticker_sentiment_score": "-0.047709",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CLF",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LI",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "-0.272343",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "NUE",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.096477",
+                    "ticker_sentiment_score": "-0.0852",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stock market today: US futures climb as traders await crucial 'Magnificent 7' earnings reports",
+            "url": "https://africa.businessinsider.com/markets/stock-market-today-us-futures-climb-as-traders-await-crucial-magnificent-7-earnings/mk3wwc1",
+            "time_published": "20240422T101016",
+            "authors": [
+                "George Glover"
+            ],
+            "summary": "Samp;P 500 futures were up 0.5% shortly before 6 a.m. ET, while Nasdaq 100 futures had climbed 0.6%. The Dow Jones Industrial Average was on pace to add 165 points.",
+            "banner_image": "https://ocdn.eu/pulscms-transforms/1/_xektkuTURBXy8wN2RmMWYwOC0zN2Q5LTRhZWEtYjEyOS1hYTM0YTViYzRiZTYuanBlZ5GTBc0DFs0Brg",
+            "source": "Business Insider",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "africa.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.219403,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.162802",
+                    "ticker_sentiment_score": "0.223261",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.162802",
+                    "ticker_sentiment_score": "0.223261",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.162802",
+                    "ticker_sentiment_score": "0.223261",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.162802",
+                    "ticker_sentiment_score": "0.223261",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.162802",
+                    "ticker_sentiment_score": "0.070605",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stock market today: US futures climb as traders await crucial 'Magnificent 7' earnings reports",
+            "url": "https://www.businessinsider.com/stock-market-today-microsoft-alphabet-meta-tesla-magnificent-seven-earnings-2024-4",
+            "time_published": "20240422T101000",
+            "authors": [
+                "George Glover"
+            ],
+            "summary": "Stock market today: US futures climb ahead of Magnificent 7 earnings - Business Insider ...",
+            "banner_image": null,
+            "source": "Business Insider",
+            "category_within_source": "GoogleRSS",
+            "source_domain": "www.businessinsider.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.110583,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.232439",
+                    "ticker_sentiment_score": "0.138028",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.232439",
+                    "ticker_sentiment_score": "0.138028",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "JNJ",
+                    "relevance_score": "0.117486",
+                    "ticker_sentiment_score": "0.121385",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.117486",
+                    "ticker_sentiment_score": "0.121385",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.117486",
+                    "ticker_sentiment_score": "0.121385",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        }
+    ]
+}

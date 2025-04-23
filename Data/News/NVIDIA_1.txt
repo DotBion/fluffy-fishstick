@@ -1,0 +1,10 @@
+Title: Nvidia’s AI chip dominance is being targeted by Google, Intel, and Arm
+Publish Date: 2024-03-25 00:00:00
+Authors: Jess Weatherbed
+URL: https://www.theverge.com/2024/3/25/24111435/nvidia-ai-market-google-intel-arm-uxl-foundation-cuda
+
+Major tech companies are attempting to eliminate software advantages that have helped Nvidia dominate the artificial intelligence market. According to Reuters, a group formed by Intel, Google, Arm, Qualcomm, Samsung, and other tech companies is developing an open-source software suite that prevents AI developers from being locked into Nvidia’s proprietary tech, allowing their code to run on any machine and with any chip.
+
+The group, called The Unified Acceleration Foundation (UXL), told Reuters that technical details for the project should reach a “mature” state by the second half of this year, though a final release target wasn’t given. The project currently includes the OneAPI open standard Intel developed to eliminate requirements like specific coding languages, code bases, and other tools from tying developers into using specific architecture, such as Nvidia’s CUDA platform.
+
+Nvidia became the first chipmaker to hit a $2 trillion market capitalization last month, having experienced rapid growth after focusing on hardware for powering AI models, like its H100 and upcoming H200 GPUs. Those Nvidia chips, which lock developers into using Nvidia’s CUDA architecture, are superior to anything currently produced by other chipmakers, but the explosive demand has caused scarcity while rival companies continue developing their own alternatives. During the company’s 2023 Computex keynote, Nvidia CEO Jensen Huang said that four million developers were using the Cuda computing model.

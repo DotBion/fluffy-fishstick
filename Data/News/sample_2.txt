@@ -1,0 +1,18 @@
+Title: To Build a Better AI Supercomputer, Let There Be Light
+Publish Date: 2024-04-04 16:00:00+00:00
+Authors: Condé Nast, Will Knight, Matt Burgess, Steven Levy, Matt Kamen, Reece Rogers, Benj Edwards, Ars Technica
+URL: https://www.wired.com/story/build-a-better-ai-supercomputer-let-there-be-light/
+
+Most artificial intelligence experts seem to agree that taking the next big leap in the field will depend at least partly on building supercomputers on a once unimaginable scale. At an event hosted by the venture capital firm Sequoia last month, the CEO of a startup called Lightmatter pitched a technology that might well enable this hyperscale computing rethink by letting chips talk directly to one another using light.
+
+Data today generally moves around inside computers—and in the case of training AI algorithms, between chips inside a data center—via electrical signals. Sometimes parts of those interconnections are converted to fiber-optic links for great bandwidth, but converting signals back and forth between optical and electrical creates a communications bottleneck.
+
+Instead, Lightmatter wants to directly connect hundreds of thousands or even millions of GPUs—those silicon chips that are crucial to AI training—using optical links. Reducing the conversion bottleneck should allow data to move between chips at much higher speeds than is possible today, potentially enabling distributed AI supercomputers of extraordinary scale.
+
+Lightmatter’s technology, which it calls Passage, takes the form of optical—or photonic—interconnects built in silicon that allow its hardware to interface directly with the transistors on a silicon chip like a GPU. The company claims this makes it possible to shuttle data between chips with 100 times the usual bandwidth.
+
+For context, GPT-4—OpenAI’s most powerful AI algorithm and the brains behind ChatGPT—is rumored to have run on more than 20,000 GPUs. Harris says Passage, which will be ready by 2026, should allow for more than a million GPUs to run in parallel on the same AI training run.
+
+Lightmatter wants to speed up AI supercomputers by moving data between chips using light, not electrical signals. Courtesy of Lightmatter
+
+One audience member at the Sequoia event was Sam Altman, CEO of OpenAI, who has at times appeared obsessed with the question of how to build bigger, faster data centers to further advance AI. In February, The Wall Street Journal reported that Altman has sought up to $7 trillion in funding to develop vast quantities of chips for AI, while a more recent report by The Information suggests that OpenAI and Microsoft are drawing up plans for a $100 billion data center, codenamed Stargate, with millions of chips. Since electrical interconnects are so power-hungry, connecting chips together on such a scale would require an extraordinary amount of energy—and would depend on there being new ways of connecting chips, like the kind Lightmatter is proposing.

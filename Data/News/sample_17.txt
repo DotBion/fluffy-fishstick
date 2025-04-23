@@ -1,0 +1,64 @@
+Title: How to Tell What GPU You Have Inside Your PC or Laptop
+Publish Date: 2024-04-01 15:15:00.333000+00:00
+Authors: 
+URL: https://gizmodo.com/how-to-tell-what-gpu-you-have-amd-nvidia-intel-1851378333
+
+Let me guess: your young cousin is shoving their Windows laptop into your hands and begging you to let them know if they can play Cyberpunk 2077. Ignoring the age rating on the box, you’re probably looking for the kid’s computer’s GPU. Before you install Fortnite, you can follow a few simple steps to find out what kind of graphics capability their PC has.
+
+Annoyingly, Windows does a pretty poor job of telling you directly what kinds of graphics capability your PC has. In the “About my PC” section in Settings, Windows will tell you your CPU and how much RAM you have stored up on your PC, but it will not tell you anything about the GPU. You’ll have to look under separate menus for installed devices.
+
+Advertisement
+
+Looking Up Your GPU Under Device Manager
+
+The easiest and most foolproof way to do this is by looking up your GPU in your Device Manager. On Windows 11, type “Device Manager” into the search bar and click on the first option that says “Device Manager” and “Control Panel.” On Windows 10, you can similarly find it through the search bar. Alternatively, you can hit the Windows Key + X to bring up a list of common developer apps, then click on the Device Manager, which should be about halfway down the list.
+
+Advertisement
+
+After that, scroll down until you see “Display adapters.” Hit the dropdown icon to see a list of one or two different graphics options. If your computer runs off in-built CPU graphics, it will likely be “Intel Arc Graphics” or “Intel Iris XE” if you’re running an Intel processor. If you have an AMD chip, what you see will depend on whether your PC is running one of the company’s APUs or CPUs. The APU stands for accelerated processing unit, and they’re effectively a combination of CPU and GPU capable of handling 3D graphics.
+
+If your computer contains any separate graphics processor, it should also appear under Display adapters. These are often called “discrete” or “dedicated” GPUs because of their specific purpose for use inside the PC. More than likely, this will be an Nvidia or AMD-brand GPU. The most modern graphics processors include Nvidia’s GeForce RTX 40- series and AMD’s Radeon RX 7-series.
+
+Advertisement
+
+Further, if you want a few more details about the card, you can right-click on it and hit Properties. This will tell you the manufacturer and where the card is installed on your PC. If it’s not in-built graphics, it will likely give you the name of a PCI slot on the computer’s motherboard.
+
+Advertisement
+
+This method likely won’t tell you the OEM who made your card or the specific model number of the card. This often requires you to open up your PC completely and perhaps even remove the GPU to get a closer look. This is already enough of an ask for the layman desktop user, but it’s much more difficult on a laptop or other mobile device. If that’s the case, find your original receipt or box with the official instructions, as you may find your specific GPU there.
+
+Different manufacturers, including Gigabyte, Asus, and more, will have slight tweaks to the different kinds of discrete GPUs. They might have slightly different clock speeds or fan configurations to cool the graphics card better. It’s easy enough to find the sub-vendor of your card by looking at the GPU directly (you’ll probably find their logo plastered somewhere on the GPU itself). However, it still won’t give you a full specific mention of the exact model number without some proverbial and occasionally literal digging.
+
+Advertisement
+
+What the Hell is a GPU?
+
+Advertisement
+
+Your GPU stands for graphics processing unit. As the name suggests, the chipset can handle the intensive visual tasks associated with gaming, rendering, modeling, editing, and more. The modern form of GPUs is capable of handling intensive tasks, and they’re also the go-to processors for stuff like crypto mining (sigh).
+
+Modern high-end discrete GPUs are larger and more expensive than ever before. The Nvidia GeForce RTX 40-series starts at the low end with the RTX 4050, a very moderate GPU that can handle most games but won’t push playable frame rates in the most hardcore titles without a few tricks like AI upscaling. After that, you get to the RTX 4060s and 4070s, which act as mid-range cards, even if they sell individually for $400 or more, depending on the make and model. After that, the RTX 4080s and 4090s are the tippy-top end of GPUs on Nvidia’s line, capable of taking on some of the most demanding games and tasks. These graphics cards are also massive, so they’ll be hard to miss if you have a desktop PC.
+
+Advertisement
+
+AMD’s Radeon RX 7-line of cards are also scaled today in size and price. Towards the low-to-mid range, you’ll have cards like the Radeon RX 7600 XT, but the cards scale slightly to the RX 7700 XT and the 7800 XT, which will do pretty much everything but push 60+ framerates at 4K on demanding titles without lowering graphics settings. Then there’s the top-of-the-line with the 7900 XTX, a card that will push framerates and your wallet to the limit.
+
+Then again, you may not need a discrete GPU in today’s age. Intel’s Arc series and AMD’s CPUs can handle moderately intensive graphics tasks without buckling under pressure. In today’s age, it’s enough to assume any new PC worth its salt will handle video streaming and push fair resolutions so long as your display supports them. These CPUs and APUS can also handle some moderate gaming tasks but don’t expect to natively play some of the most intensive titles like The Callisto Protocol or Red Dead Redemption II. Then again, any of these CPUs should be capable of running cloud gaming services, so you’re never totally out of the loop if you’re trying to play today’s latest games.
+
+Advertisement
+
+Need More Help?
+
+How to Tell What Kind of GPU You Have Inside Your PC or Laptop
+
+Here are Some Easy Ways to Make Windows More Secure
+
+How to Use Google Password Manager on Any Device
+
+How to Get Better Framerates for PC Gaming
+
+How to Get Started Running Emulators on PC and Mac
+
+Advertisement
+
+Want more of Gizmodo’s consumer electronics picks? Check out our guides to the best phones, best laptops, best TVs, and best headphones. If you want to learn about the next big thing, see our guide to everything we know about the iPhone 16.

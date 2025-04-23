@@ -1,0 +1,44 @@
+Title: Nvidia is about to face its first major threat as rivals target its special sauce
+Publish Date: None
+Authors: 
+URL: https://www.businessinsider.com/nvidia-face-first-major-threat-rivals-software-cuda-ai-chips-2024-3
+
+Nvidia has felt invincible in the generative-AI era.
+
+But some of its competitors are ready to try changing that.
+
+No company is invincible, but Nvidia sure has been making its case.
+
+Its billionaire CEO, Jensen Huang, commanded a stadium of celebrities and developers in San Jose, California, last week. It's added almost $2 trillion in value in less than 15 months. And its new Blackwell chip for artificial-intelligence applications has got everyone from Mark Zuckerberg to Sam Altman fiending.
+
+Besides being the computing bedrock of the generative-AI boom, what's really given Nvidia its status of near-invincibility is the software it first released in the 2000s that's built up a global community of 4 million developers who use it, maintain it, and swear by it.
+
+CUDA, as it's known, is what really makes Nvidia's chips, or GPUs, tick for their users. How long that remains the case is now up in the air: Rivals are finally ready to go after Nvidia's secret sauce.
+
+Overcoming a huge moat
+
+CUDA may have arguably created Silicon Valley's biggest moat.
+
+The moat, a term used to describe the competitive advantage held by a business, has been created for Nvidia by CUDA's plug-and-play system. It directly links GPUs to pretty much any AI application a developer wants to run, no matter how varied or complex.
+
+This hasn't been lost on competitors, which seems to be why a group of them have been quietly working away on an alternative with the potential to wreck Nvidia's moat.
+
+According to Reuters , tech giants including Qualcomm, Google, and Intel have grouped together in a consortium named the UXL Foundation to "build a suite of software and tools that will be able to power multiple types of AI accelerator chips."
+
+The software, an open-source project built initially using Intel technology, aims to "make computer code run on any machine, regardless of what chip and hardware powers it," the Reuters report says.
+
+This is interesting for a key reason.
+
+For one, companies such as Google have been pouring resources into developing their own GPUs in-house that can rival Nvidia's. The search giant in particular is betting massively on AI being here to stay, so if it can develop chips that power AI, it can build a base in a key area of the field.
+
+A way forward
+
+But without software like CUDA, it could be tough to convince buyers needing GPUs to part ways with Nvidia. After all, CUDA has such a strong hold on developers by making AI apps easy to run on their hardware.
+
+So, by trying to create their version of CUDA software, Nvidia's rivals are making a huge bet that developers will be tempted to try out other chips — particularly at a time when supply constraints have ravaged Nvidia and others.
+
+Qualcomm's head of AI and machine learning, Vinesh Sukumar, told Reuters the consortium was "actually showing developers how you migrate out from an Nvidia platform."
+
+The consortium's technology remains some time away from maturity, with technical details not expected to be nailed down until the end of the year. Nvidia's main rival, AMD, also has its own competing software named ROCm.
+
+Nvidia's near-indomitable moat is about to be tested.

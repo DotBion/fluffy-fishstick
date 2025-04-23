@@ -1,0 +1,34 @@
+Title: 7 Ways the Apple Antitrust Case Could Change Your iPhone
+Publish Date: 2024-03-22 15:09:09.822000+00:00
+Authors: Condé Nast, Simon Hill, Jaina Grey, Brenda Stolyar, Nena Farrell, Michael Calore, Medea Giordano, Matt Jancer, Julian Chokkattu, Boone Ashworth
+URL: https://www.wired.com/story/us-lawsuit-apple-iphone-changes/
+
+The US Department of Justice has targeted Apple’s alleged smartphone monopoly with its newly filed antitrust lawsuit. It accuses Apple of thwarting innovation, excluding competition, and locking customers into its walled garden. Get ready for a lengthy courtroom battle, and with pockets as deep as Apple’s, who knows what the outcome might be? But concessions seem likely.
+
+Many of the points raised in the lawsuit have double-edged implications, admonishing Apple for not granting third parties more access to crucial iPhone functions, but also for preventing its apps and services from working beyond iPhones. This aggressive legal challenge could significantly impact the iPhone in your pocket. Here are a few changes we might see if the suit proves successful.
+
+iMessage and Android
+
+When Tim Cook was asked about fixing iPhone-to-Android messaging in 2022 by someone upset they couldn’t send videos to their mother’s Android phone, he glibly replied, “Buy your mom an iPhone.” Those words, quoted in the lawsuit, are coming back to haunt him.
+
+Long rumored, the prospect of Apple’s native messaging app playing nicely with Android phones is an attractive one. Currently, folks receiving text messages from iPhones on their Android phones don’t get end-to-end encryption, read receipts, live typing updates, or stickers and effects.
+
+While Apple earned plaudits for rolling out end-to-end encryption in 2011 and leading the way to tighter security, the suit accused it of hypocrisy in refusing to allow other smartphone platforms such as Android to use its end-to-end encryption iMessage protocol.
+
+For a long time, Apple refused to adopt the widely used RCS (Rich Communication Services) standard. Under pressure from regulators, Apple relented last year, saying it will support RCS at some point during 2024, though it did not mention iMessage.
+
+This suit may finally prompt Apple to fix this problem, or even to roll out iMessage for Android and turn those green bubbles blue.
+
+Better Messaging Apps
+
+The suit makes no bones about messaging. “Apple makes third-party messaging apps on the iPhone worse generally and relative to … Apple’s own messaging app,” it claims. You cannot send or receive SMS text messages on an iPhone without using iMessage.
+
+The suit also criticizes Apple for blocking third-party messaging apps from operating in the background when the app is closed, preventing message delivery confirmation, and blocking access to the iPhone camera to allow users to preview their appearance on video before answering a call, like you can with FaceTime.
+
+If the DOJ prevails, that may lead to a better choice of iMessage alternatives on your iPhone.
+
+More Wallets and Payment Options
+
+If you want to store credit cards, IDs, movie tickets, or car keys on your iPhone, you use Apple Wallet. As the only iPhone app that can access NFC (near-field communication) for payments, you must use Apple Pay if you want to tap to pay for something with your iPhone. The lawsuit accuses Apple of preventing third parties, including trusted banks, from offering digital wallets and supporting tap-to-pay transactions on iPhones.
+
+Apple doesn’t just block other options for iPhone users, it also takes a cut of credit card transactions (0.15 percent commission) from banks, which none of its smartphone competitors do.

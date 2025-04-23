@@ -1,0 +1,36 @@
+Title: The world's biggest chipmaker just got hit by an earthquake. That could mean production delays for customers like Apple and Nvidia.
+Publish Date: None
+Authors: 
+URL: https://www.businessinsider.com/taiwan-earthquake-tsmc-chip-maker-production-delay-apple-nvidia-2024-4
+
+A powerful earthquake in Taiwan forced chip maker TSMC to suspend operations at some sites.
+
+That could mean production delays for companies like Apple, which relies on its chips.
+
+A powerful earthquake that shook the east coast of Taiwan early Wednesday morning appears to have disrupted the operations of the Taiwan Semiconductor Manufacturing Company — the world's biggest chip maker.
+
+That could be an issue for major companies like Apple and Nvidia, which rely on its chips to power their technology.
+
+The 7.4-magnitude earthquake — the island's strongest in the last 25 years — has reportedly killed nine and injured more than 900 others. It also damaged more than 100 buildings, according to the latest figures from The New York Times.
+
+TSMC's manufacturing facilities also took a hit. Based in the Taiwanese city of Hsinchu, a company spokesperson told Business Insider that some of the global chip giant's plants were evacuated as a safety measure, highlighting just how vulnerable its facilities are to seismic activity. While TSMC says all its personnel are safe, some sites were forced to suspend operations. The company says it hopes to resume production overnight, Bloomberg reported.
+
+"There is no damage to our critical tools, including all of our extreme ultraviolet lithography tools," the chipmaker told Bloomberg on Wednesday.
+
+But if operations don't resume according to plan, that could spell trouble for TSMC's business — which provides 90% of the world's advanced chips — and the supply chains of its biggest customers.
+
+"It is possible that this could cause a minor disruption," Chris Miller, the author of the book "Chip War: The Fight for the World's Most Critical Technology," told Business Insider.
+
+Apple relies on the Taiwanese company's chips to power its iPhone, iPad, and MacBooks. Worst-case scenario, disruptions to TSMC could mean production delays for its existing products and a later rollout of its new devices. Nvidia, a US corporation that buys TSMC's chips to develop its highly coveted GPUs used to power AI, may face similar repercussions, especially as demand for its graphic processing units outstrips supply amid the ongoing global chip shortage.
+
+Apple and Nvidia didn't immediately return to requests for comment from Business Insider when asked how TSMC's production disruptions would impact their businesses.
+
+Analysts say halting production could also damage some of TSMC's most advanced chips, which require maintenance around the clock, further exacerbating production delays.
+
+"Some of the high-end chips need 24/7 seamless operations in a vacuum state for a few weeks," analysts Bum Ki Son and Brian Tan told Bloomberg. "Operation halts in Taiwan's northern industrial areas could mean some high-end chips in production may be spoiled."
+
+It's possible that TSMC can bounce back quickly. Miller, the chip expert, pointed to the 1999 earthquake in Taiwan and how that caused disruptions to local chipmaking facilities for only a few days. That means customers wouldn't necessarily need to purchase semiconductors from countries like the United States, which would cost up to 50% more to produce than in Taiwan, according to Citi Group. They just have to be a little patient.
+
+"In case disruptions happen, customers wouldn't turn to alternative suppliers," Miller said. "In most cases, they would just wait a bit longer for chips."
+
+"Thus far, it isn't clear whether there will be any meaningful delays," he said.

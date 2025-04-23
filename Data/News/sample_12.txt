@@ -1,0 +1,70 @@
+Title: Meet Sharon Zhou, the AI founder doing just fine without Nvidia's chips
+Publish Date: None
+Authors: 
+URL: https://www.businessinsider.com/nvidia-chips-lamini-ai-amd-jensen-huang-sharon-zhou-2024-4
+
+Everyone in AI has been seemingly falling over themselves for Nvidia's chips.
+
+Everyone that is, except Sharon Zhou.
+
+Tech CEOs with big plans for artificial intelligence spent a bunch of time scrambling around in search of Nvidia chips last year.
+
+The Santa Clara giant's chips, known as GPUs, became the hottest property of the generative AI boom. Figures as powerful as Mark Zuckerberg and Sam Altman raced to secure supplies of the vital computing resources needed to power apps like ChatGPT.
+
+However, there's one AI boss who hasn't put herself at the mercy of Nvidia's billionaire leader Jensen Huang, and his $2.2 trillion GPU empire. Meet Sharon Zhou.
+
+The 30-year-old has had quite the career.
+
+She's the first person to major in both classics and computer science at Harvard. She received a Ph.D. in generative AI at Stanford under machine learning pioneer Andrew Ng, became an adjunct professor at the university, and has made time for online teaching and angel investing. If that wasn't enough, she was also asked to be on the early founding team of Anthropic, the OpenAI rival that just raised an extra $2.75 billion from Amazon.
+
+Her ambitions have taken her in a slightly different direction, however, as she's now forging her own path forward by taking charge of an AI startup of her own.
+
+Who needs Nvidia?
+
+In April last year, Zhou and her cofounder Greg Diamos, based in Palo Alto, brought their new startup, Lamini AI, out of stealth. Its main ambition was to offer a platform that makes it easy for enterprises to train and create customized large language models with "just a few lines of code."
+
+That could mean taking a foundation model like GPT from OpenAI and making it easy for an enterprise to fine-tune that model with its own data. "What we're doing is making it essentially possible for every enterprise to have OpenAI's infrastructure but in-house," Zhou said.
+
+An equally interesting revelation came months later, however.
+
+In September, Zhou revealed that Lamini's platform had been building customized LLMs with customers over the past year by exclusively using GPUs from Nvidia's main rival, AMD, the chip giant run by Huang's cousin, Lisa Su.
+
+It was a big deal given that almost everyone seemed to be exclusively obsessed with H100 — GPUs that Nvidia has struggled to meet the demand of amid supply constraints. Lamini's reveal even came with a video of Zhou teasing Nvidia about the shortage.
+
+Just grilling up some GPUs ‍♀️
+
+
+
+Kudos to Jensen for baking them first https://t.co/4448NNf2JP pic.twitter.com/IV4UqIS7OR — Sharon Zhou (@realSharonZhou) September 26, 2023
+
+As Zhou acknowledges, though, it wasn't an easy decision to look away from the thing everyone in generative AI has been desperate for. "The decision-making process was a long one," she said. "It was not a trivial, small one."
+
+A few things helped the decision. For one, her cofounder Diamos played a key role in helping make the realization that GPUs other than those from Nvidia work perfectly well.
+
+As a former Nvidia software architect, Diamos understood that while GPU hardware was vital for getting top performance out of AI models — he was, after all, the coauthor of a paper on "scaling laws" that showed the importance of computing power — software was important too.
+
+Diamos was witness to that having worked on CUDA, the software first developed by Nvidia in the 2000s. It makes using AI models with GPUs like the H100 and Nvidia's new Blackwell chip, as simple as a plug-and-play system.
+
+So it became clear that if another company could build a similar software ecosystem around its GPUs, there'd be no reason they couldn't compete with Nvidia. Fortunately for them, after consulting with Diamos, according to Zhou, AMD was on its way to building a rival system that they would eventually test.
+
+"Greg and I were just jamming on things, so this has been years in the making, and then once the prototypes worked we were just like let's just double down on this," Zhou said.
+
+More broadly, Zhou recognizes that businesses are so "excited to use LLMs," but many may not want to — or simply can't afford to — wait around for Nvidia to shore up enough supply of its GPUs to meet the demand.
+
+It's another reason AMD has proven so valuable to her ambitions. Thanks to its GPUs being more available, Zhou was confident that Lamini could offer "infrastructure that makes meeting that skyrocketing demand" for LLMs possible.
+
+"This is because Lamini fully utilizes LLM compute at 10x performance and makes it possible to scale quickly without supply constraints, by offering vendor-agnostic compute options, i.e. it's indiscernible to customers to run Lamini on Nvidia and AMD GPUs," she explained.
+
+A lot of people ask me what the AMD MI300 chip looks like.
+
+
+
+Here it is, held by the incredible @LisaSu!
+
+
+
+We’ve had many F500 enterprises and leading tech unicorns successfully get their proprietary data into an LLM. All on AMD. In production. pic.twitter.com/9vGzQlt4fE — Sharon Zhou (@realSharonZhou) January 30, 2024
+
+No wonder the company is ready to double down on AMD. In January, Zhou shared an image to X of the MI300X — AMD's new chip first unveiled in December by CEO Su as the "highest performing accelerator in the world" — live in production at Lamini.
+
+Nvidia's Huang might be leading one of the most powerful companies in Silicon Valley now, but the competition is coming for him. Or as Zhou said of AMD: "They have a real horse in this race."

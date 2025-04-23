@@ -1,0 +1,3268 @@
+{
+    "items": "50",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "The Nvidia Chart Shows The Importance Of Earnings From Tesla, Meta, Microsoft, And Alphabet - NVIDIA  ( NASDAQ:NVDA ) ",
+            "url": "https://www.benzinga.com/markets/24/04/38361740/the-nvidia-chart-shows-the-importance-of-earnings-from-tesla-meta-microsoft-and-alphabet",
+            "time_published": "20240422T164400",
+            "authors": [
+                "The Arora Report"
+            ],
+            "summary": "To gain an edge, this is what you need to know today. Please click here for an enlarged chart of NVIDIA Corp NVDA. If earnings from these stocks are better than whisper numbers, expect a strong rally in the stock market from here.",
+            "banner_image": "https://cdn.benzinga.com/files/finance-800x360_9.jpg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.996718"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.238598,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.06623",
+                    "ticker_sentiment_score": "0.350876",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.196877",
+                    "ticker_sentiment_score": "0.29011",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.132004",
+                    "ticker_sentiment_score": "0.218469",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.132004",
+                    "ticker_sentiment_score": "-0.144805",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "What will it take to get tech stocks rising again? An unemployment rate above 4%",
+            "url": "https://www.cnbc.com/2024/04/22/it-will-take-unemployment-above-4percent-to-get-high-growth-tech-rising.html",
+            "time_published": "20240422T160710",
+            "authors": [
+                "Morgan Chittum"
+            ],
+            "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+            "banner_image": "https://image.cnbcfm.com/api/v1/image/104507465-GettyImages-472247800.jpg?v=1713798936&w=600&h=300&vtcrop=y",
+            "source": "CNBC",
+            "category_within_source": "Top News",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.818451"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.039119,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.153961",
+                    "ticker_sentiment_score": "0.021962",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DTST",
+                    "relevance_score": "0.077343",
+                    "ticker_sentiment_score": "0.016573",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.153961",
+                    "ticker_sentiment_score": "0.021962",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.153961",
+                    "ticker_sentiment_score": "0.021962",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.153961",
+                    "ticker_sentiment_score": "0.021962",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.153961",
+                    "ticker_sentiment_score": "0.021962",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia Stock Was Not the Only Semiconductor Stock to Plummet on Friday -- Time to Buy?",
+            "url": "https://www.fool.com/investing/2024/04/22/nvidia-stock-was-not-the-only-semiconductor-stock/",
+            "time_published": "20240422T154342",
+            "authors": [
+                "Jose Najarro"
+            ],
+            "summary": "Arm Holdings stock dropped over 16% on Friday. Is now the time to buy?",
+            "banner_image": "https://g.foolcdn.com/editorial/images/773796/bear-market-in-the-red-trending-down.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": -0.224648,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.682689",
+                    "ticker_sentiment_score": "-0.517463",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.382925",
+                    "ticker_sentiment_score": "-0.386083",
+                    "ticker_sentiment_label": "Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.197413",
+                    "ticker_sentiment_score": "-0.239458",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "ARM",
+                    "relevance_score": "0.546745",
+                    "ticker_sentiment_score": "0.137146",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.382925",
+                    "ticker_sentiment_score": "-0.386083",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Dow Jones Up After Ukraine-Israel Aid; Elon Musk Says This Amid More Tesla Price Cuts",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-nasdaq-sp500-nvidia-tesla-stock-2/",
+            "time_published": "20240422T144700",
+            "authors": [
+                "MICHAEL LARKIN",
+                "Investor's Business Daily"
+            ],
+            "summary": "Dow Jones Up After Ukraine-Israel Aid. Elon Musk Says This Amid More Tesla Price Cuts Investor's Business Daily ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2021/06/Stock-elonmusk-02-shutt.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999612"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.142857"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.917436"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.142857"
+                }
+            ],
+            "overall_sentiment_score": 0.146136,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MARA",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "-0.218314",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.039944",
+                    "ticker_sentiment_score": "0.088156",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.120016",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.197735",
+                    "ticker_sentiment_score": "0.190384",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.120016",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "VZ",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "-0.198817",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "RSG",
+                    "relevance_score": "0.119433",
+                    "ticker_sentiment_score": "0.235776",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LVS",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "-0.027748",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.223448",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "HEI",
+                    "relevance_score": "0.119433",
+                    "ticker_sentiment_score": "0.282982",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.120016",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WHD",
+                    "relevance_score": "0.158781",
+                    "ticker_sentiment_score": "0.293797",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.197735",
+                    "ticker_sentiment_score": "-0.076572",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RIOT",
+                    "relevance_score": "0.119433",
+                    "ticker_sentiment_score": "0.104788",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.079788",
+                    "ticker_sentiment_score": "0.083931",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.2741",
+                    "ticker_sentiment_score": "0.129979",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stocks Expected to Rebound, but Is the Correction Over?",
+            "url": "https://www.investorideas.com/news/2024/main/04224TradingAlert-Stocks.asp",
+            "time_published": "20240422T142515",
+            "authors": [],
+            "summary": "April 22, 2024 ( Investorideas.com Newswire ) Stock prices sold off on Friday on Middle East tensions as markets feared potential retaliation from Israel following Iran's attack. The S&P 500 index dropped by 0.88%, falling below 5,000 and reaching a new medium-term low of 4,953.56.",
+            "banner_image": null,
+            "source": "Investor Ideas",
+            "category_within_source": "n/a",
+            "source_domain": "www.investorideas.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99977"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.002424,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.082393",
+                    "ticker_sentiment_score": "0.139023",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.041251",
+                    "ticker_sentiment_score": "0.077966",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Assessing Your Microsoft  ( MSFT )  Stake Ahead of Q3 Earnings",
+            "url": "https://www.zacks.com/stock/news/2259333/assessing-your-microsoft-msft-stake-ahead-of-q3-earnings",
+            "time_published": "20240422T141900",
+            "authors": [
+                "Vasundhara Sawalka"
+            ],
+            "summary": "Microsoft's (MSFT) third-quarter fiscal 2024 results are likely to benefit from the steady adoption of the Office 365 suite and Microsoft Copilot amid improving demand for PCs.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/49/437.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.999999"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.320828,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HPQ",
+                    "relevance_score": "0.047371",
+                    "ticker_sentiment_score": "0.133675",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LNVGF",
+                    "relevance_score": "0.047371",
+                    "ticker_sentiment_score": "0.133675",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.627119",
+                    "ticker_sentiment_score": "0.391576",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.141448",
+                    "ticker_sentiment_score": "0.18687",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Can Apple Afford Its $108 Billion in Long-Term Debt?",
+            "url": "https://www.fool.com/investing/2024/04/22/apple-afford-108-billion-long-term-debt/",
+            "time_published": "20240422T141500",
+            "authors": [
+                "Neil Patel"
+            ],
+            "summary": "Even the most financially savvy businesses can find more ways to strategically raise capital.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/773527/using-iphone-at-desk-with-apple-watch-on.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.024935,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.68732",
+                    "ticker_sentiment_score": "0.085652",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Market Clubhouse Morning Memo - April 22nd, 2024  ( Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA )  - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
+            "url": "https://www.benzinga.com/trading-ideas/24/04/38358078/market-clubhouse-morning-memo-april-22nd-2024-trade-strategy-for-spy-qqq-aapl-msft-nvda-googl-meta",
+            "time_published": "20240422T141341",
+            "authors": [
+                "RIPS"
+            ],
+            "summary": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA. Our proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account price, volume, and options flow.",
+            "banner_image": "https://cdn.benzinga.com/files/market-clubhouse-morning-memo_208.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.882182"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.180102,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.149285",
+                    "ticker_sentiment_score": "0.008242",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.030026",
+                    "ticker_sentiment_score": "0.074349",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.089909",
+                    "ticker_sentiment_score": "0.137113",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.149285",
+                    "ticker_sentiment_score": "0.008033",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.149285",
+                    "ticker_sentiment_score": "0.193975",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Stock Market News for Apr 22, 2024",
+            "url": "https://www.zacks.com/stock/news/2259133/stock-market-news-for-apr-22-2024",
+            "time_published": "20240422T132500",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "U.S. stock ended mostly lower on Friday, with the Nasdaq closing in the red for the sixth straight session and the S&P 500 recording its third straight week of losses as tech stocks took a beating.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/93/534.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": -0.267469,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.169425",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.259267",
+                    "ticker_sentiment_score": "0.227886",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.169425",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "The Zacks Analyst Blog Highlights NVIDIA, Microsoft, Apple, Meta Platforms and UBS",
+            "url": "https://www.zacks.com/stock/news/2259351/the-zacks-analyst-blog-highlights-nvidia-microsoft-apple-meta-platforms-and-ubs",
+            "time_published": "20240422T132400",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "NVIDIA, Microsoft, Apple, Meta Platforms and UBS are part of the Zacks top Analyst Blog.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/6c/1151.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.796627"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.976671"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.307402,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.153797",
+                    "ticker_sentiment_score": "0.098805",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.153797",
+                    "ticker_sentiment_score": "0.055594",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.56217",
+                    "ticker_sentiment_score": "0.506338",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.153797",
+                    "ticker_sentiment_score": "0.098805",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.051551",
+                    "ticker_sentiment_score": "0.120962",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UBS",
+                    "relevance_score": "0.153797",
+                    "ticker_sentiment_score": "0.055594",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Investors Heavily Search Apple Inc.  ( AAPL ) : Here is What You Need to Know",
+            "url": "https://www.zacks.com/stock/news/2259017/investors-heavily-search-apple-inc-aapl-here-is-what-you-need-to-know",
+            "time_published": "20240422T130016",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Apple (AAPL) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default128.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.54554"
+                }
+            ],
+            "overall_sentiment_score": 0.208579,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.487546",
+                    "ticker_sentiment_score": "0.119797",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "'Apple Shot Itself In The Foot:' Telegram Founder Says Cupertino iPhone Market Share In China Will 'Keep Shrinking' - Apple  ( NASDAQ:AAPL ) ",
+            "url": "https://www.benzinga.com/news/24/04/38354891/apple-shot-itself-in-the-foot-telegram-founder-says-cupertino-iphone-market-share-in-china-will-keep",
+            "time_published": "20240422T120843",
+            "authors": [
+                "Rounak Jain"
+            ],
+            "summary": "Apple Inc. AAPL is facing a potential market share decline in China due to its strict App Store policies, according to Telegram Messenger founder Pavel Durov. What Happened: Durov criticized Apple's \"walled garden\" approach, stating that it could lead to a further drop in iPhone market share in ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/Apple-iPhone-China.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.062185,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XIACY",
+                    "relevance_score": "0.084127",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.167322",
+                    "ticker_sentiment_score": "-0.053282",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.47379",
+                    "ticker_sentiment_score": "-0.163695",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "ETF Winners Amid Last Week's Record Loss in \"Magnificent 7\"",
+            "url": "https://www.zacks.com/stock/news/2258961/etf-winners-amid-last-weeks-record-loss-in-magnificent-7",
+            "time_published": "20240422T120000",
+            "authors": [
+                "Sanghamitra Saha"
+            ],
+            "summary": "Last week witnessed the largest collective loss for the \"Magnificent Seven\" technology-related stocks due to higher rates and rich valuation of those stocks.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default339.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999996"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.012164,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.137148",
+                    "ticker_sentiment_score": "0.00249",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.045918",
+                    "ticker_sentiment_score": "0.037851",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.045918",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "-0.164829",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.137148",
+                    "ticker_sentiment_score": "-0.092166",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.182162",
+                    "ticker_sentiment_score": "0.034562",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "-0.173159",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.045918",
+                    "ticker_sentiment_score": "0.037851",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.091684",
+                    "ticker_sentiment_score": "-0.202677",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Should WisdomTree U.S. Total Dividend ETF  ( DTD )  Be on Your Investing Radar?",
+            "url": "https://www.zacks.com/stock/news/2258912/should-wisdomtree-us-total-dividend-etf-dtd-be-on-your-investing-radar",
+            "time_published": "20240422T102006",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Style Box ETF report for DTD ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default298.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.192132,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.122894",
+                    "ticker_sentiment_score": "0.06159",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WT",
+                    "relevance_score": "0.300946",
+                    "ticker_sentiment_score": "0.159219",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.122894",
+                    "ticker_sentiment_score": "0.06159",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Should Vanguard S&P 500 Growth ETF  ( VOOG )  Be on Your Investing Radar?",
+            "url": "https://www.zacks.com/stock/news/2258918/should-vanguard-sp-500-growth-etf-voog-be-on-your-investing-radar",
+            "time_published": "20240422T102005",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Style Box ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default41.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999998"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.238099,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.125134",
+                    "ticker_sentiment_score": "0.069019",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.125134",
+                    "ticker_sentiment_score": "0.069019",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.125134",
+                    "ticker_sentiment_score": "0.069019",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.125134",
+                    "ticker_sentiment_score": "0.104891",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Is iShares Core Dividend Growth ETF  ( DGRO )  a Strong ETF Right Now?",
+            "url": "https://www.zacks.com/stock/news/2258920/is-ishares-core-dividend-growth-etf-dgro-a-strong-etf-right-now",
+            "time_published": "20240422T102005",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Smart Beta ETF report for ...",
+            "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default352.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999919"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.319409,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BLK",
+                    "relevance_score": "0.058047",
+                    "ticker_sentiment_score": "0.093975",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "0.060087",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "0.060087",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "0.170123",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WT",
+                    "relevance_score": "0.172919",
+                    "ticker_sentiment_score": "0.253276",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.115787",
+                    "ticker_sentiment_score": "0.060087",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "With Smartphone Market Recovering, What To Expect From Qualcomm's Q2 Results?",
+            "url": "https://www.forbes.com/sites/greatspeculations/2024/04/22/with-smartphone-market-recovering-what-to-expect-from-qualcomms-q2-results/",
+            "time_published": "20240422T100026",
+            "authors": [
+                "Trefis Team"
+            ],
+            "summary": "Mobile chipset major Qualcomm ( NASDAQ: QCOM ) is expected to publish its Q2 FY'24 results on May 1, reporting on a quarter that is likely to see business pick up, amid rising smartphone sales. The company is guiding revenue in the range of $8.9 billion to $9.7 billion, with adjusted earnings ...",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/6625f40fa9141d75ad43d6b4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.928769"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.13176,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.720339",
+                    "ticker_sentiment_score": "0.212121",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.213048",
+                    "ticker_sentiment_score": "0.077437",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Meet the Surprising Oil Stock Lawmakers Couldn't Stop Buying in 2023  ( Hint: It's Not Chevron or ExxonMobil ) ",
+            "url": "https://www.fool.com/investing/2024/04/22/surprising-oil-stock-lawmakers-chevron-exxonmobil/",
+            "time_published": "20240422T095100",
+            "authors": [
+                "Keith Speights"
+            ],
+            "summary": "This stock edged out Apple as the top stock bought by members of Congress last year.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/773457/oil-rig-construction-industrial-energy.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999997"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.184926,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "OXY",
+                    "relevance_score": "0.067919",
+                    "ticker_sentiment_score": "0.092451",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.135347",
+                    "ticker_sentiment_score": "0.146372",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CVX",
+                    "relevance_score": "0.067919",
+                    "ticker_sentiment_score": "-0.064148",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COP",
+                    "relevance_score": "0.798895",
+                    "ticker_sentiment_score": "0.277875",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.067919",
+                    "ticker_sentiment_score": "-0.064148",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "It's Time to Ditch These 2 \"Magnificent Seven\" Stocks and Replace Them With 2 Bona Fide Outperformers",
+            "url": "https://www.fool.com/investing/2024/04/22/its-time-to-ditch-these-2-magnificent-seven-stocks/",
+            "time_published": "20240422T092100",
+            "authors": [
+                "Sean Williams"
+            ],
+            "summary": "Among Microsoft, Apple, Nvidia, Alphabet, Amazon, Meta Platforms, and Tesla, there are two former highfliers that are no longer magnificent.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F773491%2Fbuy-sell-stock-market-rolling-dice-getty.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.98396"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.246906,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.029292",
+                    "ticker_sentiment_score": "-0.153494",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.029292",
+                    "ticker_sentiment_score": "0.147017",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.029292",
+                    "ticker_sentiment_score": "-0.153494",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.058544",
+                    "ticker_sentiment_score": "0.092365",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.313726",
+                    "ticker_sentiment_score": "0.207118",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.313726",
+                    "ticker_sentiment_score": "0.183832",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.286528",
+                    "ticker_sentiment_score": "0.385204",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.087717",
+                    "ticker_sentiment_score": "0.175843",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Billionaire Warren Buffett Has 50% of the Berkshire Hathaway Portfolio in 1 Stock",
+            "url": "https://www.fool.com/investing/2024/04/22/billionaire-warren-buffett-has-50-of-the-berkshire/",
+            "time_published": "20240422T090200",
+            "authors": [
+                "CFA",
+                "Parkev Tatevosian"
+            ],
+            "summary": "Warren Buffett is widely recognized as one of the best investors ever.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/773689/buffett19-tmf.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.383535,
+            "overall_sentiment_label": "Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.876064",
+                    "ticker_sentiment_score": "-0.86822",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Could TSMC Become the Next Nvidia?",
+            "url": "https://www.fool.com/investing/2024/04/22/could-tsmc-become-the-next-nvidia/",
+            "time_published": "20240422T081500",
+            "authors": [
+                "Leo Sun"
+            ],
+            "summary": "This massive chip foundry seems unlikely to outpace the AI leader.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F773497%2Ftsmc-fab16-nanjing.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.990893"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.213834,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.049835",
+                    "ticker_sentiment_score": "0.132181",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.382925",
+                    "ticker_sentiment_score": "0.193725",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.049835",
+                    "ticker_sentiment_score": "0.112213",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QCOM",
+                    "relevance_score": "0.099476",
+                    "ticker_sentiment_score": "0.00986",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.049835",
+                    "ticker_sentiment_score": "0.132181",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.099476",
+                    "ticker_sentiment_score": "0.079492",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "New York Stock Exchange Seeks Opinion If It Should Trade 24/7 Like Bitcoin, Ethereum As SEC Examines Steve Cohen-Backed Proposal",
+            "url": "https://www.benzinga.com/markets/equities/24/04/38351608/new-york-stock-exchange-seeks-opinion-if-it-should-trade-247-like-bitcoin-ethereum-as-sec-examin",
+            "time_published": "20240422T074357",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "The New York Stock Exchange ( NYSE ) is currently seeking feedback from market participants regarding the potential benefits of implementing a 24/7 trading schedule, similar to the trading of cryptocurrencies such as Bitcoin BTC/USD and Ethereum ETH/USD. This move coincides with regulatory ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/22/New-York-Stock-Exchange.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999987"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.207228,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.13242",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.13242",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IBKR",
+                    "relevance_score": "0.080728",
+                    "ticker_sentiment_score": "0.045151",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ICE",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.100518",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HOOD",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.059687",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.0806",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.160633",
+                    "ticker_sentiment_score": "0.0806",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Ethereum's Vitalik Buterin Says Privacy In Physical Space Is 'Rapidly Decreasing' In Era Of Facial Recognition - Outlines Way To 'Restore A Little Bit Of Balance'",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/24/04/38350116/ethereums-vitalik-buterin-says-privacy-in-physical-space-is-rapidly-decreasing-in-era-of-f",
+            "time_published": "20240422T025133",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "Vitalik Buterin, co-founder of Ethereum ETH/USD, has voiced his concerns about the diminishing privacy in physical spaces and emphasized the importance of online privacy. What Happened: On Sunday, Buterin took to X, formerly Twitter, to express his views on the increasing invasion of privacy due ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/21/Vitalik-Buterin--Photo-by-TechCrunch-on-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.150463,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.090816",
+                    "ticker_sentiment_score": "0.187288",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.267804",
+                    "ticker_sentiment_score": "0.012369",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk Agrees Every American Household Will Have A $1,000-Per-Month Home Robot In 7 Years' Time - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
+            "url": "https://www.benzinga.com/news/24/04/38349837/elon-musk-agrees-every-american-household-will-have-a-1-000-per-month-home-robot-in-7-years-time",
+            "time_published": "20240422T013145",
+            "authors": [
+                "Ananya Gairola"
+            ],
+            "summary": "Tesla and SpaceX CEO Elon Musk has concurred with a bold prediction that every middle-class American household will have a domestic robot within seven years. What Happened: The prediction was made on the All-In Podcast, featuring Chamath Palihapitiya, Jason Calacanis, David Sacks, and David ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/21/Paris--France---June-16--2023-Elon-Musk-.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.240355,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.33628",
+                    "ticker_sentiment_score": "0.207028",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.228073",
+                    "ticker_sentiment_score": "0.240383",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.115232",
+                    "ticker_sentiment_score": "0.109161",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Hope For Higher Bearish Sentiment",
+            "url": "https://www.forbes.com/sites/tomaspray/2024/04/21/hope-for-higher-bearish-sentiment/",
+            "time_published": "20240421T225726",
+            "authors": [
+                "Tom Aspray"
+            ],
+            "summary": "The stock market opened last week with a heavy burden as the prior week's action pushed the advance/decline analysis into the sell mode which was further complicated by increased Middle East tensions.",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/662587685dc28a33558c093e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.990893"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": -0.065502,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.069394",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.103927",
+                    "ticker_sentiment_score": "-0.034791",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.069394",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AWON",
+                    "relevance_score": "0.03473",
+                    "ticker_sentiment_score": "-0.099049",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.03473",
+                    "ticker_sentiment_score": "-0.006842",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "'Not Something Steve Jobs Would Probably Do': Gurman Says Apple Should Go Against The Grain And Lower iPhone's Price Point - Apple  ( NASDAQ:AAPL ) ",
+            "url": "https://www.benzinga.com/markets/equities/24/04/38348747/not-something-steve-jobs-would-probably-do-gurman-says-apple-should-go-against-the-grain-and-low",
+            "time_published": "20240421T163635",
+            "authors": [
+                "Shanthi Rexaline"
+            ],
+            "summary": "Apple, Inc. AAPL is facing multiple headwinds, and chief among them are the weakness in China and slowing iPhone sales, said Bloomberg's columnist Mark Gurman on Sunday.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/21/Prague-Czech-Republic---28--November-Iph.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.024013,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "XIACY",
+                    "relevance_score": "0.049629",
+                    "ticker_sentiment_score": "-0.112178",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.616447",
+                    "ticker_sentiment_score": "0.010778",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "3 Secrets of 401 ( k )  Millionaires",
+            "url": "https://www.fool.com/retirement/2024/04/21/3-secrets-of-401k-millionaires/",
+            "time_published": "20240421T153300",
+            "authors": [
+                "Anders Bylund"
+            ],
+            "summary": "The basic strategy for successful retirement investing is well-known, but you might be surprised at how minimal effort can still build millions over the long haul.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F773542%2Fcalcxml-401k-graph.png&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999491"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.194625,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.045224",
+                    "ticker_sentiment_score": "0.237212",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.090304",
+                    "ticker_sentiment_score": "0.222607",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.090304",
+                    "ticker_sentiment_score": "0.222607",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Let's Spill The Tea: Top Consumer Tech News From Last Week That You Should Know - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
+            "url": "https://www.benzinga.com/news/large-cap/24/04/38348564/lets-spill-the-tea-top-consumer-tech-news-you-should-know-from-last-week",
+            "time_published": "20240421T150143",
+            "authors": [
+                "Lekha Gupta"
+            ],
+            "summary": "Here's what happened in the world of consumer tech in the last week: Alphabet Inc.'s GOOG GOOGL Google employees were reportedly arrested and placed on administrative leave after they staged 10-hour sit-ins at offices in New York and Sunnyvale, California, to protest the $1.2 billion cloud ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/21/artificial-intelligence_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                }
+            ],
+            "overall_sentiment_score": 0.012127,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.129516",
+                    "ticker_sentiment_score": "-0.049629",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SNEJF",
+                    "relevance_score": "0.086556",
+                    "ticker_sentiment_score": "0.105998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.129516",
+                    "ticker_sentiment_score": "-0.10076",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.129516",
+                    "ticker_sentiment_score": "0.037583",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.255641",
+                    "ticker_sentiment_score": "0.124263",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.086556",
+                    "ticker_sentiment_score": "0.174372",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NTDOF",
+                    "relevance_score": "0.043342",
+                    "ticker_sentiment_score": "0.129612",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EA",
+                    "relevance_score": "0.086556",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stock-Split Watch: Is Nvidia Next?",
+            "url": "https://www.fool.com/investing/2024/04/21/will-nvda-stock-split-nvda-stock-split-history/",
+            "time_published": "20240421T120000",
+            "authors": [
+                "Beth McKenna"
+            ],
+            "summary": "There's good reason to believe the artificial intelligence (AI) chip leader could soon split its stock.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/773486/nvda-stock-split-2024-ai-stocks.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.121823,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.051221",
+                    "ticker_sentiment_score": "0.017993",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.801137",
+                    "ticker_sentiment_score": "0.172581",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.051221",
+                    "ticker_sentiment_score": "0.017993",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.051221",
+                    "ticker_sentiment_score": "0.017993",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Better Earnings Don't Stop The Plunge In Stocks",
+            "url": "https://www.forbes.com/sites/bill_stone/2024/04/21/better-earnings-dont-stop-the-plunge-in-stocks/",
+            "time_published": "20240421T101855",
+            "authors": [
+                "Bill Stone"
+            ],
+            "summary": "The earnings season remained slow out of the gate, with only 41 S&P 500 companies reporting. Banks continued to be a large contingent of the reporters, which boosted the sector's earnings expectations for the quarter as most banks had better-than-expected earnings.",
+            "banner_image": "https://imageio.forbes.com/specials-images/imageserve/6289278ab804d306fc837362/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "source": "Forbes",
+            "category_within_source": "n/a",
+            "source_domain": "www.forbes.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.152394,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.186738",
+                    "ticker_sentiment_score": "-0.009341",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.186738",
+                    "ticker_sentiment_score": "-0.009341",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.09402",
+                    "ticker_sentiment_score": "-0.019211",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.09402",
+                    "ticker_sentiment_score": "-0.019211",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.09402",
+                    "ticker_sentiment_score": "-0.019211",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CVX",
+                    "relevance_score": "0.09402",
+                    "ticker_sentiment_score": "-0.019211",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNP",
+                    "relevance_score": "0.09402",
+                    "ticker_sentiment_score": "-0.019211",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.09402",
+                    "ticker_sentiment_score": "-0.019211",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PEP",
+                    "relevance_score": "0.09402",
+                    "ticker_sentiment_score": "-0.019211",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GILD",
+                    "relevance_score": "0.09402",
+                    "ticker_sentiment_score": "-0.050125",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GD",
+                    "relevance_score": "0.09402",
+                    "ticker_sentiment_score": "-0.019211",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BMY",
+                    "relevance_score": "0.09402",
+                    "ticker_sentiment_score": "-0.050125",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why Warren Buffett Has 68% of Berkshire Hathaway's $361 Billion Portfolio Invested in Only 4 Stocks",
+            "url": "https://www.fool.com/investing/2024/04/21/warren-buffett-berkshire-hathaway-portfolio-stocks/",
+            "time_published": "20240421T094900",
+            "authors": [
+                "Keith Speights"
+            ],
+            "summary": "The Oracle of Omaha has good reasons for putting so much of Berkshire's money in a handful of stocks.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/773305/buffett22-tmf.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.314235,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.244723",
+                    "ticker_sentiment_score": "0.227341",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.359881",
+                    "ticker_sentiment_score": "0.338681",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.359881",
+                    "ticker_sentiment_score": "0.38948",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.303175",
+                    "ticker_sentiment_score": "0.243635",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "BRK-A",
+                    "relevance_score": "0.123844",
+                    "ticker_sentiment_score": "0.129829",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Apple Eyes Manufacturing Expansion In Indonesia, Huawei Challenge And More: This Week In Appleverse - BlackBerry  ( NYSE:BB ) ",
+            "url": "https://www.benzinga.com/news/24/04/38347661/apple-eyes-manufacturing-expansion-in-indonesia-huawei-challenge-and-more-this-week-in-appleverse",
+            "time_published": "20240421T042957",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "The past week was a rollercoaster ride for Apple Inc. AAPL, with news ranging from potential manufacturing expansion in Indonesia to a new challenge in the Chinese market from Huawei. The tech giant also faced questions about the profitability of its App Store and concerns about a China-linked ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/21/Apple-Store-Fifth-Avenue.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.026407,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BB",
+                    "relevance_score": "0.099476",
+                    "ticker_sentiment_score": "-0.092272",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.546745",
+                    "ticker_sentiment_score": "-0.047055",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Want a Million-Dollar Retirement Fund? Investing $300 per Month in This Magnificent ETF Could Get You There",
+            "url": "https://www.fool.com/investing/2024/04/20/million-dollar-retirement-fund-investing-etf/",
+            "time_published": "20240420T200000",
+            "authors": [
+                "Katie Brockman"
+            ],
+            "summary": "It's simpler than you might think to retire a millionaire.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/773311/hundred-dollar-bills.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                }
+            ],
+            "overall_sentiment_score": 0.201852,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SCHW",
+                    "relevance_score": "0.057767",
+                    "ticker_sentiment_score": "-0.009003",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.057767",
+                    "ticker_sentiment_score": "0.050961",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.057767",
+                    "ticker_sentiment_score": "0.050961",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.057767",
+                    "ticker_sentiment_score": "0.050961",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PG",
+                    "relevance_score": "0.057767",
+                    "ticker_sentiment_score": "0.050961",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Nvidia In Correction Territory - Did AI-Led Tech Stock Bubble Just Burst? This Data Point Offers A Clue. - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
+            "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/04/38346847/nvidia-in-correction-territory-did-ai-led-tech-stock-bubble-just-burst-this-data-po",
+            "time_published": "20240420T160021",
+            "authors": [
+                "Shanthi Rexaline"
+            ],
+            "summary": "The extended sell-off seen in the market since April 12 has been led by high-profile tech stocks, which ironically were the leaders of the rally that began in 2023. The Tech Rout: The broader market, which rallied through 2023, carried over the momentum into the new year and the upward trend ...",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/20/King-County--Washington--United-States--.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.967645"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": -0.097861,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.121343",
+                    "ticker_sentiment_score": "0.018506",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.121343",
+                    "ticker_sentiment_score": "0.018506",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.121343",
+                    "ticker_sentiment_score": "0.018506",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.060848",
+                    "ticker_sentiment_score": "0.046114",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Better Dividend Stock Buy: Apple vs. Coca-Cola",
+            "url": "https://www.fool.com/investing/2024/04/20/better-dividend-stock-buy-apple-vs-coca-cola/",
+            "time_published": "20240420T101200",
+            "authors": [
+                "Demitri Kalogeropoulos"
+            ],
+            "summary": "The choice isn't as clear-cut as you might think.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/773226/friends-laughing-over-drinks-on-a-boat-soda-bottle.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.692272"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.424549,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.128135",
+                    "ticker_sentiment_score": "0.174755",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.666827",
+                    "ticker_sentiment_score": "0.652621",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "KO",
+                    "relevance_score": "0.252987",
+                    "ticker_sentiment_score": "0.372663",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "GRMN",
+                    "relevance_score": "0.064276",
+                    "ticker_sentiment_score": "0.145185",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "2 Magnificent Stocks That Have Created Many Millionaires, and Will Continue to Make More",
+            "url": "https://www.fool.com/investing/2024/04/20/2-magnificent-stocks-that-have-created-many-millio/",
+            "time_published": "20240420T091500",
+            "authors": [
+                "Dani Cook"
+            ],
+            "summary": "These companies have long histories of delivering impressive growth and have significant potential in the coming years.",
+            "banner_image": "https://media.ycharts.com/charts/a8ee38e5794c42dffff0c22f0ec31715.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.972756"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.335151,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.047654",
+                    "ticker_sentiment_score": "0.269905",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TGT",
+                    "relevance_score": "0.047654",
+                    "ticker_sentiment_score": "0.151707",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.489057",
+                    "ticker_sentiment_score": "0.378078",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "COST",
+                    "relevance_score": "0.367412",
+                    "ticker_sentiment_score": "0.533256",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.095138",
+                    "ticker_sentiment_score": "0.230981",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.047654",
+                    "ticker_sentiment_score": "0.151707",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Apple Generated $23 Billion of Q1 2024 Revenue From Something Other Than Hardware Devices. Does That Make This Top Warren Buffett Stock a No-Brainer Buy?",
+            "url": "https://www.fool.com/investing/2024/04/20/apple-top-warren-buffett-stock-no-brainer-buy/",
+            "time_published": "20240420T082000",
+            "authors": [
+                "Neil Patel"
+            ],
+            "summary": "The tech giant is in the midst of diversifying its revenue base.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/773205/using-iphone-at-desk-with-apple-watch-on.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.989041"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.217003,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.551805",
+                    "ticker_sentiment_score": "0.387655",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Former Windows Head Slams Elizabeth Warren For Apple's 'Smartphone Monopoly' Comment: 'This Needs A...Good Grief' - Apple  ( NASDAQ:AAPL ) ",
+            "url": "https://www.benzinga.com/news/24/04/38345767/former-windows-head-slams-elizabeth-warren-for-apples-smartphone-monopoly-comment-this-needs-a-good",
+            "time_published": "20240420T074836",
+            "authors": [
+                "Rounak Jain"
+            ],
+            "summary": "Former Windows head Steven Sinofsky slammed Sen. Elizabeth Warren ( D-Mass. ) for claiming Apple Inc. AAPL has a \"smartphone monopoly.\" What Happened: Sinofsky took to X, formerly Twitter, on Friday to voice his concerns about Warren's criticism of Apple.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/20/Elizabeth-Warren.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                }
+            ],
+            "overall_sentiment_score": 0.043805,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.680677",
+                    "ticker_sentiment_score": "0.099557",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Artificial Intelligence  ( AI )  Is Lifting the Smartphone Market: 2 Beaten-Down Stocks to Buy Before They Go on a Bull Run",
+            "url": "https://www.fool.com/investing/2024/04/20/artificial-intelligence-ai-is-lifting-the-smartpho/",
+            "time_published": "20240420T071500",
+            "authors": [
+                "Harsh Chauhan"
+            ],
+            "summary": "The smartphone market is in turnaround mode and AI-driven sales could give these two chipmakers a nice boost.",
+            "banner_image": "https://media.ycharts.com/charts/b037c1e15de40dac7e8b1f0813de9957.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.998311"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.271885,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SSNLF",
+                    "relevance_score": "0.044469",
+                    "ticker_sentiment_score": "0.126963",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.044469",
+                    "ticker_sentiment_score": "0.092882",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.344473",
+                    "ticker_sentiment_score": "0.241562",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SWKS",
+                    "relevance_score": "0.132855",
+                    "ticker_sentiment_score": "0.068722",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "QRVO",
+                    "relevance_score": "0.565003",
+                    "ticker_sentiment_score": "0.401949",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "XIACY",
+                    "relevance_score": "0.044469",
+                    "ticker_sentiment_score": "0.126963",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk Reacts After Nvidia Stock Plunges 10% And Erases $212B Market Cap: 'Rookie Numbers' - NVIDIA  ( NASDAQ:NVDA ) , ASML Holding  ( NASDAQ:ASML ) ",
+            "url": "https://www.benzinga.com/markets/equities/24/04/38345502/elon-musk-reacts-after-nvidia-stock-plunges-10-and-erases-212b-market-cap-rookie-numbers",
+            "time_published": "20240420T052812",
+            "authors": [
+                "Rounak Jain"
+            ],
+            "summary": "Tesla Inc. CEO Elon Musk ridiculed the sharp 10% decline in Nvidia Corp.'s NVDA stock and its subsequent $211 billion market capitalization loss on Friday. What Happened: Musk took to X, formerly Twitter, on Friday to mock the substantial decline in Nvidia's market capitalization.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/20/Elon-Musk-Nvidia.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": -0.166761,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.095138",
+                    "ticker_sentiment_score": "0.042769",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.095138",
+                    "ticker_sentiment_score": "0.042769",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.095138",
+                    "ticker_sentiment_score": "0.042769",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.28008",
+                    "ticker_sentiment_score": "-0.096799",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SSTK",
+                    "relevance_score": "0.095138",
+                    "ticker_sentiment_score": "0.302261",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.095138",
+                    "ticker_sentiment_score": "0.042769",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.188928",
+                    "ticker_sentiment_score": "-0.071218",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SMCI",
+                    "relevance_score": "0.188928",
+                    "ticker_sentiment_score": "-0.320647",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.095138",
+                    "ticker_sentiment_score": "-0.197815",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.188928",
+                    "ticker_sentiment_score": "-0.134788",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Why Meta Platforms Stock Flopped on Friday",
+            "url": "https://www.fool.com/investing/2024/04/19/why-meta-platforms-stock-flopped-on-friday/",
+            "time_published": "20240419T222300",
+            "authors": [
+                "Eric Volkman"
+            ],
+            "summary": "A development with one of the company's apps was concerning to investors.",
+            "banner_image": "https://g.foolcdn.com/editorial/images/773632/person-using-a-smartphone-while-seated-at-a-desk-with-a-laptop.jpg",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": -0.107213,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.769861",
+                    "ticker_sentiment_score": "-0.177822",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.136113",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Supercomputer Market size is set to grow by USD 17.55 billion from 2023-2027, commercial customers increasingly ... - PR Newswire",
+            "url": "https://www.prnewswire.com/news-releases/supercomputer-market-size-is-set-to-grow-by-usd-17-55-billion-from-2023-2027--commercial-customers-increasingly-adopting-supercomputing-systems-boost-the-market-technavio-302121531.html",
+            "time_published": "20240419T214000",
+            "authors": [],
+            "summary": "Supercomputer Market size is set to grow by USD 17.55 billion from 2023-2027, commercial customers increasingly ... PR ...",
+            "banner_image": null,
+            "source": "PR Newswire",
+            "category_within_source": "n/a",
+            "source_domain": "www.prnewswire.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.360215"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.294096,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "LNVGF",
+                    "relevance_score": "0.039679",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.039679",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.039679",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.039679",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HTHIF",
+                    "relevance_score": "0.039679",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "RNECF",
+                    "relevance_score": "0.039679",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "F",
+                    "relevance_score": "0.039679",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HPQ",
+                    "relevance_score": "0.039679",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AEXAF",
+                    "relevance_score": "0.039679",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.079261",
+                    "ticker_sentiment_score": "0.129524",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IBM",
+                    "relevance_score": "0.079261",
+                    "ticker_sentiment_score": "0.129524",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.039679",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMD",
+                    "relevance_score": "0.079261",
+                    "ticker_sentiment_score": "0.129524",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HPE",
+                    "relevance_score": "0.039679",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "DELL",
+                    "relevance_score": "0.039679",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FJTSF",
+                    "relevance_score": "0.039679",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Taylor Swift Teams Up With TikTok For 'The Tortured Poets Department': Exclusive Features - Apple  ( NASDAQ:AAPL ) , Spotify Technology  ( NYSE:SPOT ) ",
+            "url": "https://www.benzinga.com/general/entertainment/24/04/38340849/taylor-swift-teams-up-with-tiktok-for-the-tortured-poets-department-exclusive-features",
+            "time_published": "20240419T184659",
+            "authors": [
+                "Franca Quarneti"
+            ],
+            "summary": "Taylor Swift's latest album, \"The Tortured Poets Department,\" has joined forces with ByteDance's TikTok. This marks a significant turnaround after Swift's music was absent from the platform due to a dispute between Universal Music Group NV UMGNF and the popular social media platform.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/19/Article-Images-Templates-17_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.306574,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SPOT",
+                    "relevance_score": "0.585052",
+                    "ticker_sentiment_score": "0.237152",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SSTK",
+                    "relevance_score": "0.129516",
+                    "ticker_sentiment_score": "0.336513",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.129516",
+                    "ticker_sentiment_score": "0.177456",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Dow Jones Rises But S&P, Nasdaq Fall; Nvidia, SMCI Flash Sell Signals As Bitcoin's Fourth Halving Arrives",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-netflix-bitcoin-amazon-meta-nvidia-stock/",
+            "time_published": "20240419T175600",
+            "authors": [
+                "VIDYA RAMAKRISHNAN",
+                "Investor's Business Daily"
+            ],
+            "summary": "Dow Jones Rises But S&P, Nasdaq Fall. Nvidia, SMCI Flash Sell Signals As Bitcoin's Fourth Halving Arrives Investor's Business Daily ...",
+            "banner_image": "https://www.investors.com/wp-content/uploads/2017/02/stock-wallStreet-1-shutter.jpg",
+            "source": "Investors Business Daily",
+            "category_within_source": "n/a",
+            "source_domain": "www.investors.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.999819"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.576289"
+                }
+            ],
+            "overall_sentiment_score": 0.002454,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.173749",
+                    "ticker_sentiment_score": "-0.030809",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.05833",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.116348",
+                    "ticker_sentiment_score": "-0.087957",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.230235",
+                    "ticker_sentiment_score": "-0.158984",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.116348",
+                    "ticker_sentiment_score": "0.132091",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SMCI",
+                    "relevance_score": "0.173749",
+                    "ticker_sentiment_score": "-0.124353",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "UNH",
+                    "relevance_score": "0.116348",
+                    "ticker_sentiment_score": "0.132091",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.116348",
+                    "ticker_sentiment_score": "0.132091",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.116348",
+                    "ticker_sentiment_score": "0.145374",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "INTC",
+                    "relevance_score": "0.116348",
+                    "ticker_sentiment_score": "0.132091",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.116348",
+                    "ticker_sentiment_score": "0.289093",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ISRG",
+                    "relevance_score": "0.116348",
+                    "ticker_sentiment_score": "0.060468",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.173749",
+                    "ticker_sentiment_score": "-0.090997",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.116348",
+                    "ticker_sentiment_score": "0.023241",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "TSMC Beats on Q1 Earnings, Shares Fall: ETFs in Focus",
+            "url": "https://www.zacks.com/stock/news/2258672/tsmc-beats-on-q1-earnings-shares-fall-etfs-in-focus",
+            "time_published": "20240419T160500",
+            "authors": [
+                "Sweta Killa"
+            ],
+            "summary": "Taiwan Semiconductor Manufacturing (TSM) returned to sales and earnings growth after four consecutive quarters of declines on a year-over-year basis.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/19/1136.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.904684"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.152914,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.090304",
+                    "ticker_sentiment_score": "0.107932",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SPGI",
+                    "relevance_score": "0.179454",
+                    "ticker_sentiment_score": "0.108926",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.090304",
+                    "ticker_sentiment_score": "0.107932",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSM",
+                    "relevance_score": "0.179454",
+                    "ticker_sentiment_score": "0.061611",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Aggressive Stock Dip Buying - Iran Downplays Israeli Attack - Fed Official Talks Rate Hike - Tesla  ( NASDAQ:TSLA ) ",
+            "url": "https://www.benzinga.com/news/24/04/38337197/aggressive-stock-dip-buying-iran-downplays-israeli-attack-fed-official-talks-rate-hike",
+            "time_published": "20240419T152343",
+            "authors": [
+                "The Arora Report"
+            ],
+            "summary": "To gain an edge, this is what you need to know today. Please click here for an enlarged chart of E-mini S&P 500. The strike targeted areas around Isfahan in central Iran. Isfahan is known for a nuclear facility and also a drone factory. Neither the drone factory nor the nuclear facility was ...",
+            "banner_image": "https://cdn.benzinga.com/files/totos-adam-3r8rcsy0ffg-unsplash_9.jpg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99737"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                }
+            ],
+            "overall_sentiment_score": 0.179108,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.105836",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.105836",
+                    "ticker_sentiment_score": "-0.176773",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.105836",
+                    "ticker_sentiment_score": "0.288389",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.105836",
+                    "ticker_sentiment_score": "-0.176773",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.105836",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.053035",
+                    "ticker_sentiment_score": "0.34897",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.405378",
+                    "ticker_sentiment_score": "-0.502287",
+                    "ticker_sentiment_label": "Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Market Clubhouse Morning Memo - April 19th, 2024  ( Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, And TSLA )  - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",
+            "url": "https://www.benzinga.com/trading-ideas/24/04/38336033/market-clubhouse-morning-memo-april-19th-2024-trade-strategy-for-spy-qqq-aapl-msft-nvda-googl-meta",
+            "time_published": "20240419T143703",
+            "authors": [
+                "RIPS"
+            ],
+            "summary": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA. Our proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account price, volume, and options flow.",
+            "banner_image": "https://cdn.benzinga.com/files/market-clubhouse-morning-memo_207.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.803643"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.168121,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.137671",
+                    "ticker_sentiment_score": "0.063524",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.027667",
+                    "ticker_sentiment_score": "0.073514",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.137671",
+                    "ticker_sentiment_score": "0.118847",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.082867",
+                    "ticker_sentiment_score": "0.003148",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.137671",
+                    "ticker_sentiment_score": "0.071817",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Netflix  ( NFLX )  Q1 Earnings Beat, Revenues Rise Y/Y on User Gain",
+            "url": "https://www.zacks.com/stock/news/2258553/netflix-nflx-q1-earnings-beat-revenues-rise-yy-on-user-gain",
+            "time_published": "20240419T142300",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Netflix's (NFLX) top line gains from 9.33 million subscriber additions in the first quarter of 2024. The company however predicts a sequential decline in the second quarter due to typical seasonality.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/da/91.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.980716"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.171565,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NFLX",
+                    "relevance_score": "0.535653",
+                    "ticker_sentiment_score": "0.306408",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.116348",
+                    "ticker_sentiment_score": "0.136228",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PARA",
+                    "relevance_score": "0.029184",
+                    "ticker_sentiment_score": "-0.022272",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.116348",
+                    "ticker_sentiment_score": "0.136228",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.029184",
+                    "ticker_sentiment_score": "0.109012",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Are These Beaten-Down S&P 500 Members Worth a Buy?",
+            "url": "https://www.zacks.com/commentary/2258003/are-these-beaten-down-sp-500-members-worth-a-buy",
+            "time_published": "20240419T141500",
+            "authors": [
+                "Derek Lewis"
+            ],
+            "summary": "The performance of a few S&P 500 members in 2024 has left a sour taste in investors' mouths, with several beloved stocks unable to gain any meaningful traction. But is it a buying opportunity?",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b9/441.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.961735"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.120014,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "NKE",
+                    "relevance_score": "0.376194",
+                    "ticker_sentiment_score": "0.244815",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.376194",
+                    "ticker_sentiment_score": "0.199883",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.486857",
+                    "ticker_sentiment_score": "-0.185367",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                }
+            ]
+        },
+        {
+            "title": "Pentagon's Defense Innovation Unit To Boost Startups With Increased Funding And Support",
+            "url": "https://www.benzinga.com/government/24/04/38335201/pentagons-defense-innovation-unit-to-boost-startups-with-increased-funding-and-support",
+            "time_published": "20240419T140218",
+            "authors": [
+                "Benzinga Neuro"
+            ],
+            "summary": "The Defense Innovation Unit ( DIU ) of the Pentagon, known for its collaboration with startups, is set to receive a significant increase in funding and support.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2024/04/19/US-Defense-spending.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "General",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                }
+            ],
+            "overall_sentiment_score": 0.351065,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.084127",
+                    "ticker_sentiment_score": "0.154938",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "LMT",
+                    "relevance_score": "0.084127",
+                    "ticker_sentiment_score": "0.199016",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "PLTR",
+                    "relevance_score": "0.084127",
+                    "ticker_sentiment_score": "0.226277",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        }
+    ]
+}

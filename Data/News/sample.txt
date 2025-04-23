@@ -1,0 +1,25 @@
+Title:Meta Debuts Llama 3, Latest AI Model to Power Chatbots
+
+Content:(Bloomberg) -- Facebook parent company Meta Platforms Inc. debuted a new version of its powerful Llama artificial intelligence model, its latest effort to keep pace with similar technology from companies like OpenAI and Alphabet Inc.’s Google.
+
+Most Read from Bloomberg
+
+Llama 3, unveiled Thursday, is an upgrade from an AI model that Meta released last summer. Chief Product Officer Chris Cox said that model, Llama 2, has been downloaded 170 million times. Llama 2 was billed as open source, though its license included some restrictions such as requiring companies with more than 700 million users to ask for permission to use it.
+
+Meta, the world’s largest social media company, is using Llama 3 to run its own in-app AI assistant, called MetaAI, which exists across several products, including Facebook, WhatsApp and Meta’s Ray-Ban smart glasses. The MetaAI assistant will be updated for users on Thursday as well, the company said.
+
+Many major tech companies are racing to develop AI products and services, spending billions on high tech chips and employee resources to develop large language models and other AI-focused products. Meta is using AI to power its content feeds and recommendations, but also to improve ad targeting and its virtual reality headsets.
+
+Llama 3 is “industry leading on a number of benchmarks for models of this size,” Cox said. “We’re no longer playing catch-up to have a model that’s best-in-class.”
+
+The company is also working on several iterations of Llama 3 that will be rolled out as updates, Cox added.
+
+Meta has used AI in its products for years, but has leaned more heavily into the new technology over the past year, with executives emphasizing the benefits in public appearances and interviews. Investors have been optimistic about Meta’s use of AI in its products. The shares gained 2.7% to $507.25 at 1:02 p.m. Thursday in New York and have jumped 43% this year.
+
+--With assistance from Rachel Metz.
+
+(Corrects the number of downloads in the second paragraph of the story published April 18. An earlier version corrected the use of the AI model in the headline.)
+
+Most Read from Bloomberg Businessweek
+
+©2024 Bloomberg L.P.

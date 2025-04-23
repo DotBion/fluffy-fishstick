@@ -1,0 +1,26 @@
+Title: México reemplaza a China como epicentro de la IA para Nvidia, Amazon y otras tecnológicas
+Publish Date: 2024-04-01 14:38:27+00:00
+Authors: Rubén Chicharro
+URL: http://hipertextual.com/2024/04/mexico-reemplaza-a-china-como-epicentro-de-la-ia-para-nvidia-amazon-y-otras-tecnologicas
+
+Nvidia, Amazon, Google y Microsoft, cuatro de las grandes empresas tecnológicas de Estados Unidos, están prescindiendo de China para la fabricación y el mantenimiento de equipos de inteligencia artificial. Según reporta el Wall Street Journal, estas compañías han encontrado un hogar mucho más accesible para su negocio en EE. UU.: México, y han pedido a su principal proveedor, la taiwanesa Foxconn, que traslade toda o parte de la cadena de suministro de hardware de IA a esta región.
+
+Foxconn, de hecho, ya se ha puesto manos a la obra para satisfacer las necesidades de sus clientes estadounidenses con una inversión de 690 millones de dólares en México durante los últimos, afirma el citado medio, donde también se crearán 5.000 nuevos puestos de trabajo.
+
+La taiwanesa también ha adquirido un terreno en Jalisco, un estado al oeste de México, por valor de 27 millones de dólares con el objetivo de incrementar su producción de servidores de IA para las grandes tecnológicas.
+
+Los motivos por el que México es el nuevo epicentro de la IA
+
+La decisión de compañías como Nvidia, Amazon, Google y Microsoft de trasladar parte de su producción de productos de IA a México no es más que una estrategia de nearshoring por parte de estas empresas. Se trata de una práctica en la que las empresas trasladan operaciones comerciales a localidades cercanas geográficamente con tal de aumentar la producción y disminuir algunos riesgos asociados con la distancia.
+
+También se trata de una estrategia de friendshoring, cuyo objetivo es llevar la producción a países amigos de, en este caso, Estados Unidos, para así evitar riesgos como conflictos políticos.
+
+De este modo, Nvidia, Amazon, Google y Microsoft pueden esquivar el conflicto político entre EE. UU. y China México, de hecho, forma parte del Acuerdo de Libre Comercio entre Estados Unidos y Canadá.
+
+También Intel
+
+Hay otras compañías que también llevan años trabajando en su intención de desplazar la producción de sus dispositivos de IA. como Intel. La empresa especializada en semiconductores anunció en 2022 que la inversión fiscal de 8.500 millones de dólares que recibió del Gobierno de Estados Unidos, irá destinada al centro de diseño de chips de IA que la compañía tiene en Guadalajara.
+
+Mónica Duhem Delgado, jefa de la unidad de inteligencia económica global de la Secretaría de Economía de México, destacó tras el anuncio que han “visto una tendencia en todo el mundo de que las empresas y fábricas quieren estar más cerca de sus clientes debido a la interrupción de la cadena de suministro”. Pero, que es algo que “no tiene sentido hacer todo en Estados Unidos porque es mucho más caro”.
+
+Recibe cada mañana nuestra newsletter. Una guía para entender lo que importa en relación con la tecnología, la ciencia y la cultura digital. Suscríbete Procesando... ¡Listo! Ya estás suscrito Hubo un error, actualiza la página e inténtalo nuevamente
