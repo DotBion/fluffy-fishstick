@@ -1,0 +1,6 @@
+experiment:
+  name: stock-price-prediction-lstm
+  artifact_location: /mnt/data/mlruns
+  backend: file
+  storage:
+    store_dir: /mnt/data/mlruns
