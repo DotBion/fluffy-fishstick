@@ -1,0 +1,50 @@
+Title: I'm a software engineer for Nvidia. Here's how I landed the job — and how much I'm making.
+Publish Date: None
+Authors: 
+URL: https://www.businessinsider.com/nvidia-software-engineer-how-landed-job-preparation-culture-interviews-2024-4
+
+A software engineer at Nvidia in India reveals how he got the job, and breaks down his compensation.
+
+The engineer offers tips on how others can land a role at the $2.2 trillion chip company.
+
+This as-told-to essay is based on a transcribed conversation with a senior software engineer at Nvidia in India who spoke anonymously because he is not authorized to speak to the press. Business Insider has verified his employment and income. The following has been edited for length and clarity.
+
+I joined Nvidia as a newly graduated junior software engineer about three years ago.
+
+I had other offers from Amazon, LinkedIn, and a startup. I ended up choosing Nvidia because it offered higher total compensation in terms of the base salary and stock options.
+
+Initially, I got around 1.6 million rupees as an annual base salary (about $19,000) and about 2.5 million rupees in stocks vested over four years. Then you get about 25% of the 2.5 million rupees a year in incremental stock grants on top of that, depending on individual and team performance.
+
+I've been promoted to a higher level since I joined and now my base salary is more than 2 million rupees, which is considered a good amount in India. I also thought I'd have greater opportunities to grow at Nvidia than at Amazon, and the work here felt more exciting than at Amazon or LinkedIn.
+
+I knew I would have a good amount of work I could do that would have a lot of impact and that's what I was looking for. I'm happy with my decision because I've been able to do that.
+
+The application process was pretty straightforward. First, there was a coding interview. I was asked questions about data structures and algorithms. Then, I had a call with a Nvidia recruiter, after which I had two technical interviews.
+
+I used the online portal to apply and had a referral for the job as my college has multiple alumni working at Nvidia.
+
+Nvidia has eight hierarchy levels for software engineers. The title goes from Individual Contributor (IC) one through eight. As a junior engineer, you join as an IC1.
+
+As a new graduate, you want to get your hands on good offers in the roles that you would like to see yourself working in, so it's best to apply for multiple positions at different firms.
+
+The technical interviews were pretty hard
+
+The best advice I'd give to any tech worker looking to land a similar role at a Big Tech company is to focus on building your data structures and algorithm knowledge. I'd also recommend getting your "story" right, so practice how to confidently speak about your experience and how it's relevant to the role you're applying for.
+
+Show interviewers that you have the right experience, and give examples of your past work and how it could fit with the team's goals. For example, rather than just saying I built "X", tell them why it was built right. You have to understand the business-use case for every one of your projects.
+
+To help prepare for interviews, cold email people from a firm you are applying to so you can get an understanding of the team culture and what you're getting into. It will help you to make an informed decision if you get multiple offers from different companies.
+
+Use the STAR method to prepare
+
+This method involves speaking about a challenge you've previously overcome in another work setting, so you discuss the Situation, Task, Action, and Result.
+
+Interviewers want to get a feel for how you are as a person, so it's worth feeling comfortable talking about yourself. I once didn't pass an interview with another company for this exact reason. I wasn't well prepared at that point.
+
+Nvidia has a great culture and there's room for failure. They graciously allow you to fail as long as you strive to improve, work hard, and learn from mistakes.
+
+I would probably choose Nvidia again, especially the stock price. My total compensation is much higher than I ever imagined.
+
+
+
+Are you a Nvidia employee with a tip? Contact this reporter from a personal device at jmann@businessinsider.com
