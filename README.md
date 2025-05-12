@@ -372,6 +372,7 @@ ansible-playbook -i inventory.yml argocd/argocd_add_prod.yml
 * FinBERT Endpoint: `http://129.114.27.146:8080/predict`
 * Prometheus:`http://129.114.27.146:9000/`
 * Grafana: `http://129.114.27.146:3001/`
+* To host the endpoints to your floating IP manually, run /train/inference_server_lstm.py (LSTM), or /train/inference_server_finbert.py (Finbert).
 
 ### LSTM:
 
@@ -387,11 +388,7 @@ ansible-playbook -i inventory.yml argocd/argocd_add_prod.yml
 
 * FP-16 and Int8 Quantizations via ONNX Runtime with full graph optimizations
 * Option to switch to Triton Inferencing and 4 Uvicorn workers for production ready concurrent deployement.
-
-### Monitoring:
-
-* Throughput and inference time tests conducted with Prometheus and Grafana
-* Evaluated model sizes across different architectures
+* To manually launch optimised onnyx LSTM endpoint using triton inference, run /App/src/optimised_LSTM.py. 
 
 
 ## 5. Evaluation & Monitoring
