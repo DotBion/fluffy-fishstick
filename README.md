@@ -1,145 +1,316 @@
-# 📈 FinPulse : Stock Sentiment-Aware Price Forecasting using LLM + MLStack
+# FinPulse: Stock Sentiment-Aware Price Forecasting + MLStack
 
-A hybrid machine learning system that estimates future stock prices by combining real-time textual financial sentiment (news, Twitter, etc.) and traditional market indicators. The system leverages LLMs like **FinBERT**, custom embeddings, and regression-based predictors, and is built with a full MLOps pipeline on **Chameleon Cloud**.
+FinPulse is a production-grade hybrid ML system combining market data with real-time financial sentiment from sources like news and Twitter to predict short-term stock price movements. It is fully automated using MLOps practices and deployed on Chameleon Cloud, targeting quantitative hedge funds and alt-data research teams.
 
----
+## 1. Value Proposition
 
-## 🧠 Value Proposition
+**Target Customers:**
 
-Our project targets quantitative hedge funds and alternative data research teams at firms like Two Sigma, Citadel Securities, or Bloomberg. These institutions constantly seek scalable ways to integrate alternative signals like public sentiment into trading models. FinPulse provides a production-ready, automated pipeline that processes daily financial news and market data to predict next-day stock price movement.
+* Quantitative research teams at hedge funds (e.g., Two Sigma, Citadel, Bloomberg)
+* Personal investors
 
-Unlike fragmented research workflows or experimental scripts, FinPulse enables end-to-end automation of the ML lifecycle: data ingestion, feature engineering, model training, serving, monitoring, and retraining. It significantly reduces the latency between research insight and model deployment—empowering firms to capitalize on market sentiment quickly and reliably.
+**Current Challenges:**
 
-- **Current Status Quo**: Today, data scientists in hedge funds and financial analytics firms work in fragmented environments:
-Sentiment analysis and price modeling are often done independently.
-Transitioning from research to deployment is manual and time-consuming.
-Retraining schedules are ad hoc, leading to model staleness.
-Monitoring and observability are limited—data drifts or system failures may go unnoticed.
+* Fragmented workflows
+* Minimal monitoring and ad-hoc retraining
 
-- **Our Improvement**: FinPulse bridges the gap between alpha discovery and operationalization, helping funds move faster from signal to trade while maintaining transparency and robustness.
-- **Business Metric**: Accuracy of predictions, latency for inference, model Freshness
+**Our Solution:**
+FinPulse automates:
 
----
-##  📐 Scale:
+* Real-time data ingestion (Twitter, Vantage)
+* Sentiment extraction (FinBERT)
+* Price prediction (LSTM)
+* Model serving (FastAPI)
+* Monitoring (Prometheus, Grafana)
+* Continuous retraining (Ray, MLflow)
 
-Our project meets medium-scale criteria across all three axes—data, model, and deployment:
+**Business Metrics:**
 
-Data Scale
+* Accuracy: MAE, MAPE for sentiment classification
+* Latency tracking
+* Scheduled retraining and drift detection
 
-  - Financial PhraseBank: ~4,000+ labeled financial news sentences for fine-tuning/validation — [Link](https://huggingface.co/datasets/takala/financial_phrasebank)
-  - Real-time Tweets (Twitter/X): Collected via [X API](https://developer.x.com/en/docs/x-api), provides thousands of daily mentions for stocks such as AAPL, TSLA, etc.
-  - Market Data: Daily OHLC (open-high-low-close) and volume data from [Yahoo Finance](https://finance.yahoo.com/), typically spanning 10+ years, covering ~2500 data points per stock.
-  
-Model Scale
+## 2. Scale
 
-  - FinBERT: A large pre-trained transformer model (~110M parameters) from [ProsusAI](https://huggingface.co/ProsusAI/finbert), used for sentiment inference.
-  - Prediction Layer: Logistic Regression or XGBoost over engineered time-series and sentiment features. Optional RNNs or ensembles for more complexity.
-  - The system integrates multiple models in series: FinBERT for feature extraction → classifier/regressor for trend prediction → optional LLM for narrative generation.
+**Data Scale:**
 
----
+* Kaggle Tweet Dataset
+* Daily OHLC & Volume from Vantage (10+ years, \~2500 data points per stock)
 
-## 👥 Contributors
+**Model Scale:**
 
-| Name               | Role                                        | Commits |
-|--------------------|---------------------------------------------|---------|
-| All team members   | Design, Infra setup, Documentation          | [Link](#) |
-| Ronit Gehani       | Data pipeline, MLflow, FSDP                 | [Link](#) |
-| Deeptanshu Lnu     | Training pipeline, FinBERT optimization     | [Link](#) |
-| Aviraj Dongare     | CI/CD, GitHub Actions, Infra-as-Code        | [Link](#) |
-| Nobodit Choudhury  | FastAPI backend, serving infra              | [Link](https://github.com/DotBion/fluffy-fishstick/commits/main/?author=DotBion) |
+* FinBERT (\~110M parameters) from ProsusAI
+* LSTM for time-series and sentiment features
+
+## Components Overview
+
+| Component      | Technology Stack                |
+| -------------- | ------------------------------- |
+| Text Ingestion | Kaggle                          |
+| Market Data    | Vantage                         |
+| Model Training | LSTM, FinBERT                   |
+| Serving        | Flask, Docker                   |
+| Monitoring     | Prometheus, Grafana             |
+| CI/CD          | GitHub Actions, Terraform, Helm |
+| Persistence    | MinIO, Chameleon Volumes        |
+| Infra-as-Code  | Terraform, Ansible, ArgoCD      |
+
+## 3. Continuous X & DevOps
+
+### CI/CD Workflow
+
+End-to-end automation supporting continuous training, containerization, and deployment of LSTM models on Chameleon Cloud.
+
+### Infrastructure as Code (IaC)
+
+* Kubernetes (Terraform)
+* Automated configurations (Ansible)
+* Core services setup (ArgoCD, MLflow, MinIO, PostgreSQL)
+
+### Terraform Provisioning
+
+* Defined resources in `.tf` files
+* Provisioned 3-node cluster
+* IP management for deployment
+
+### Ansible Configuration
+
+* Kubernetes via Kubespray
+* Networking, RBAC, Helm setup
+* Full Kubernetes cluster automation
+
+### Platform Services with ArgoCD + Helm
+
+* MLflow, MinIO, PostgreSQL deployments
+* Dynamic IP management
+* Secret management
+
+### Argo Workflows
+
+* Continuous training and image building
+* Model versioning and deployment
+* Multi-environment deployments (Staging → Canary → Production)
+
+## 4. Data Pipeline
+
+### Offline Pipeline
+
+### Sources:
+
+* Kaggle datasets (financial news, historical prices)
+* Alpha Vantage API (daily stock price data for AAPL, MSFT)
+* CSVs or JSON files from `/mnt/block/raw/` (manual uploads or external sources)
+
+### Processing:
+
+* ETL pipelines defined in Airflow DAGs:
+
+  * Fetch raw data from APIs or Kaggle
+  * Clean, deduplicate, and reformat data using Python (pandas)
+  * Add derived features (moving averages, percent changes)
+* DAGs scheduled or manually triggered via Airflow UI
+
+### Storage:
+
+* MinIO (S3-compatible) used as the main data repository for:
+
+  * Cleaned and versioned datasets (e.g., `processed_data/aapl_2025-05-11.csv`)
+  * Raw Kaggle/API dumps (e.g., `raw_data/raw_kaggle_dump.csv`)
+* Persistent block storage on Chameleon (`/mnt/block`) for:
+
+  * Training artifacts (models, checkpoints)
+  * DAG logs, requirements, container images if necessary
+  * Backup or sync of raw/processed MinIO data
+
+### Interactive Data Dashboard
+
+* Streamlit dashboard for data inspection and drift trends (accessible at `/dashboard`)
+* Users can explore tweet volume, sentiment polarity, and price correlation
+
+### Offline Pipeline Overview & Flow:
+
+### Node Setup:
+
+* Conducted on node1 of Chameleon Cloud with floating IP for external access
+
+### Dockerized Orchestration:
+
+* Custom `docker-compose.yml` launching:
+
+  * Airflow-webserver, Airflow-scheduler, Airflow-init containers
+  * MinIO object store for persistent storage
+* All services interconnected and managed via Docker
+
+### Persistent Storage:
+
+* 20GB persistent block storage volume mounted at `/mnt/block`
+* Used to store intermediate and processed data
+* Accessible by Airflow and Python containers
+
+### Data Sources:
+
+* Kaggle datasets stored locally
+* Airflow DAG fetching updated stock data via Alpha Vantage API
+
+### ETL via Airflow:
+
+* Airflow DAGs fetch data (Kaggle/API), process it with Python operators, and upload cleaned data to MinIO
+* Modular and reproducible DAGs scheduled via Airflow UI
+
+### Data Repository:
+
+* MinIO serves as central object store for raw and processed datasets
+
+### EDA Dashboard:
+
+* Dashboard developed for Exploratory Data Analysis
+* Reads data from `/mnt/block/` or MinIO
+* Provides visualizations, filters, and data quality summaries
+
+## 5. Model Training
+
+### Setup:
+
+* Cleaned tweet dataset for FinBERT model
+* Labeled tweets with sentiment scores using VADER
+* Financial dataset appended with sentiment scores
+* Target variables: next-day closing price, next-day sentiment prediction
+
+### Models Used:
+
+* FinBERT for sentiment prediction (`train_finbert.py`)
+* LSTM for stock price prediction (`lstm_train.ipynb`, `lstm_train_pytorch.py`)
+* VADER for dataset labeling (`tweets_2018_limited.csv`, `data_2018.csv`)
+
+### Experiment Tracking:
+
+* Hyperparameters tracked via MLflow hosted on CHI\@UC (`192.5.87.29`)
+* Logged metrics: MAE, accuracy, latency
+* Logged artifacts: model checkpoints, tokenizer, configuration (`lstm_model.pth`)
+
+## 6. Model Serving
+
+### API Endpoint:
+
+* Hosted via Flask API
+* LSTM API: `http://129.114.27.146:9090/predict`
+* FinBERT API: `http://129.114.27.146:8080/predict`
+
+### LSTM:
+
+* Input: List of prices in JSON format
+* Output: Predicted next-day price (Python List)
+
+### FinBERT:
+
+* Input: JSON with recent tweets and market indicators
+* Output: Sentiment score and confidence as Python dictionary
+
+### Model Optimizations:
+
+* Throughput and inference time tests conducted with Prometheus and Grafana
+* Evaluated model sizes across different architectures
 
 
----
+## 7. Evaluation & Monitoring
 
-## 🗂 System Overview
+**Offline Evaluation:**
 
-![architecture-block-v2](https://github.com/user-attachments/assets/0690acc0-020f-430c-aff8-65fd312ad57d)
+* Metrics: MAE, MAPE, BLEU, accuracy
+* Dataset split: 70/15/15
+* MLflow tracking
 
+**Load Testing:**
 
-### Components
+* Artillery simulations (1K+ concurrent requests)
+* Stability tested up to 150 RPS
 
-- 📰 **Text Sources**: Financial PhraseBank, Twitter, News APIs
-- 📊 **Market Data**: YFinance API
-- 🔤 **NLP**: FinBERT fine-tuned for sentiment
-- 📈 **Prediction Model**: Logistic/XGBoost with embeddings
-- 📦 **Pipeline**: Spark + Airflow for ETL
-- 🧪 **Experiment Tracking**: MLflow + Ray
-- 🚀 **Deployment**: Docker + FastAPI
-- 🔍 **Monitoring**: Grafana + Loki + Prometheus
+**Drift Monitoring:**
 
----
+* Embedding-based input drift alerts
+* Grafana visualizations
 
-## 📦 Datasets & Models
+## 8. Chameleon Cloud Resources
 
-| Resource             | Origin/Creation                    | License |
-|----------------------|-------------------------------------|---------|
-| Financial PhraseBank | Annotated financial text dataset    | Open Use |
-| Twitter API          | Live tweets                        | Academic |
-| YFinance             | Stock price data                   | Public API |
-| FinBERT              | Pretrained NLP model               | Apache 2.0 |
+| Resource     | Usage Purpose               |
+| ------------ | --------------------------- |
+| gpu\_a100    | FinBERT fine-tuning         |
+| m1.large     | MLflow, Ray, ETL            |
+| m1.medium    | FastAPI serving, monitoring |
+| Floating IP  | Public API access           |
+| 100GB Volume | Models, data, logs          |
 
----
+## 9. Contributors
 
-## ☁️ Chameleon Cloud Infrastructure
+| Name              | Role                                                |
+| ----------------- | --------------------------------------------------- |
+| Aviraj Dongare    | CI/CD, Infra-as-Code                                |
+| Ronit Gehani      | Data pipeline, Airflow, MinIO                       |
+| Deeptanshu Lnu    | LSTM training, APIs, frontend, testing              |
+| Nobodit Choudhury | FastAPI backend, serving infrastructure, monitoring |
+| All Members       | Architecture, documentation, presentation           |
 
-| Resource       | Usage Purpose                          |
-|----------------|-----------------------------------------|
-| `gpu_a100`     | FinBERT fine-tuning, embedding gen      |
-| `m1.large`     | Ray head node, MLflow, Airflow          |
-| `m1.medium`    | API server, Monitoring (Grafana/Loki)   |
-| Floating IPs   | FastAPI + Dashboard access              |
-| 100GB Volume   | Persist models, embeddings, logs        |
+## Setup Instructions
 
----
+**Prerequisites:**
 
-## 🛠️ Project Design
+* Chameleon account, SSH keypair, `clouds.yaml`
 
-### 🧠 Model Training
+**Step-by-Step:**
 
-- Fine-tuning FinBERT + sentiment embeddings
-- Market embeddings from structured data
-- Combined model via Logistic Regression or XGBoost
-- Tracked in **MLflow**, scheduled via **Ray**
-- ✅ **Difficulty**: Distributed training (Ray Train), Ray Tune HPO
+Clone the Repo:
 
-### 🚀 Model Serving & Monitoring
+```bash
+git clone https://github.com/<your-org>/mlops-project10.git
+cd mlops-project10
+```
 
-- FastAPI Docker app for `/predict`
-- Prometheus + Grafana dashboards
-- ✅ **Difficulty**: Compare CPU/GPU inference + live drift monitoring
+Run Terraform:
 
-### 🔄 Data Pipeline
+```bash
+cd tf/kvm
+export TF_VAR_suffix=<netid>
+export TF_VAR_key=id_rsa_chameleon
+terraform init
+terraform apply -auto-approve
+```
 
-- **Offline**: Twitter/YFinance → ETL → Postgres
-- **Online**: Simulated API calls for real-time update
-- ✅ **Difficulty**: Interactive data quality dashboard
+Configure Kubernetes:
 
-### 🔁 Continuous Integration
+```bash
+cd ../../ansible
+ansible-playbook -i inventory.yml pre_k8s/pre_k8s_configure.yml
+ansible-playbook -i inventory.yml k8s/kubespray/cluster.yml
+ansible-playbook -i inventory.yml post_k8s/post_k8s_configure.yml
+```
 
-- CI/CD via GitHub Actions:
-  - ETL → Train → Evaluate → Docker Build → Helm Deploy
-- Staging/Canary/Prod with Helm
-  
+Deploy Platform Services:
 
----
+```bash
+ansible-playbook -i inventory.yml argocd/argocd_add_platform.yml
+```
 
-## 📊 Evaluation Plan
+Build Base Images:
 
-- Offline evaluation: BLEU, MAPE, MAE on held-out test set
-- Online evaluation: User simulation tests
-- Drift detection: Based on embeddings, market data change
-- Feedback loop: Real-time prediction storage for retraining
+```bash
+ansible-playbook -i inventory.yml argocd/workflow_build_init.yml
+```
 
----
+Deploy Models:
 
-## 📎 License & Usage
+```bash
+ansible-playbook -i inventory.yml argocd/argocd_add_staging.yml
+ansible-playbook -i inventory.yml argocd/argocd_add_canary.yml
+ansible-playbook -i inventory.yml argocd/argocd_add_prod.yml
+```
 
-This project is intended for academic and research purposes only. All third-party models and datasets comply with their respective licenses.
+Trigger Training:
 
----
+```bash
+ssh -L 2746:127.0.0.1:2746 -i ~/.ssh/id_rsa_chameleon cc@129.114.26.118
+```
 
-## ✨ Live Demo / API Endpoint
+Access dashboards:
 
-> Coming soon: [Link](#)
-
----
+* MLflow: `http://129.114.26.118:8000`
+* MinIO: `http://129.114.26.118:9001`
