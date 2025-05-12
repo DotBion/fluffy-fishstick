@@ -6,8 +6,7 @@ FinPulse is a production-grade hybrid ML system combining market data with real-
 
 **Target Customers:**
 
-* Quantitative research teams at hedge funds (e.g., Two Sigma, Citadel, Bloomberg)
-* Personal investors
+* Quantitative research teams at hedge funds (e.g., Two Sigma, Citadel, Bloomberg) and Personal investors
 
 **Current Challenges:**
 
@@ -29,6 +28,16 @@ FinPulse automates:
 * Accuracy: MAE, MAPE for sentiment classification
 * Latency tracking
 * Scheduled retraining and drift detection
+
+## Contributors
+
+| Name              | Role                                                | Commits                                                                 |
+| ----------------- | --------------------------------------------------- | ------------------------------------------------------------------------|
+| Aviraj Dongare    | CI/CD, Infra-as-Code                                | [View Commits](https://github.com/your-repo/commits?author=avirajdongare) |
+| Ronit Gehani      | Data pipeline, Airflow, MinIO                       | [View Commits] |
+| Deeptanshu Lnu    | LSTM training, APIs, frontend, testing              | [View Commits] |
+| Nobodit Choudhury | Model Training, MLFlow                              | [View Commits] |
+
 
 ## 2. Scale
 
@@ -387,14 +396,7 @@ ansible-playbook -i inventory.yml argocd/argocd_add_prod.yml
 | Floating IP  | Public API access           |
 | 100GB Volume | Models, data, logs          |
 
-## 9. Contributors
-
-| Name              | Role                                                | Commits                                                                 |
-| ----------------- | --------------------------------------------------- | ------------------------------------------------------------------------|
-| Aviraj Dongare    | CI/CD, Infra-as-Code                                | [View Commits](https://github.com/your-repo/commits?author=avirajdongare) |
-| Ronit Gehani      | Data pipeline, Airflow, MinIO                       | [View Commits] |
-| Deeptanshu Lnu    | LSTM training, APIs, frontend, testing              | [View Commits] |
-| Nobodit Choudhury | Model Training, MLFlow                              | [View Commits] |
+## 9. 
 
 
 
