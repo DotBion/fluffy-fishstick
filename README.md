@@ -1,55 +1,74 @@
-# FinPulse: Stock Sentiment-Aware Price Forecasting + MLStack
+# 🚀 **FinPulse: Stock Sentiment-Aware Price Forecasting + MLStack**
 
-FinPulse is a production-grade hybrid ML system combining market data with real-time financial sentiment from sources like news and Twitter to predict short-term stock price movements. It is fully automated using MLOps practices and deployed on Chameleon Cloud, targeting quantitative hedge funds and alt-data research teams.
+A production-grade hybrid ML system that combines market data with real-time financial sentiment (from news, Twitter, etc.) to predict short-term stock price movements. Designed and deployed with full **MLOps** automation on Chameleon Cloud, **FinPulse** targets **quantitative hedge funds** and **alt-data research teams** seeking operational efficiency and faster signal-to-trade pipelines.
 
-## 1. Value Proposition
+---
 
-**Target Customers:**
+## 🔍 Value Proposition
 
-* Quantitative research teams at hedge funds (e.g., Two Sigma, Citadel, Bloomberg) and Personal investors
+**🎯 Target Customer:**  
+Quantitative research teams at hedge funds like Two Sigma, Citadel, or Bloomberg and personal investors.
 
-**Current Challenges:**
+**📊 Status Quo:**  
+These teams rely on fragmented workflows: NLP-based sentiment research, price modeling, and deployment are siloed. Retraining is ad hoc, and monitoring is minimal.
 
-* Fragmented workflows
-* Minimal monitoring and ad-hoc retraining
+---
 
-**Our Solution:**
-FinPulse automates:
+### 🛠️ Our Solution:
 
-* Real-time data ingestion (Twitter, Vantage)
-* Sentiment extraction (FinBERT)
-* Price prediction (LSTM)
-* Model serving (FastAPI)
-* Monitoring (Prometheus, Grafana)
-* Continuous retraining (Ray, MLflow)
+**FinPulse** automates the full ML lifecycle:
 
-**Business Metrics:**
+- 📰 Real-time ingestion of financial data (Twitter + Vantage)
+- 💬 Sentiment extraction using **FinBERT**
+- 📉 Price prediction via **LSTM**
+- ⚙️ Serving via **FastAPI**
+- 📈 Monitoring via **Prometheus + Grafana**
+- 🔁 Retraining pipeline with **Ray + MLflow**
 
-* Accuracy: MAE, MAPE for sentiment classification
-* Latency tracking
-* Scheduled retraining and drift detection
+---
+
+### 📐 Business Metric Impact:
+
+- ✅ **Accuracy:** MAE, MAPE for classification metrics for sentiment  
+- ⚡ **Inference Latency:** Tracked for CPU  
+- 🧠 **Model Freshness:** Ensured via scheduled retraining and drift detection
+
 
 ## Contributors
 
-| Name              | Role                                                | Commits                                                                 |
+| Name              | Responsibilities                                                | Commits                                                                 |
 | ----------------- | --------------------------------------------------- | ------------------------------------------------------------------------|
-| Aviraj Dongare    | CI/CD, Infra-as-Code                                | [View Commits](https://github.com/your-repo/commits?author=avirajdongare) |
+| Aviraj Dongare    | CI/CD, Infra-as-Code                                | [View Commits]([https://github.com/your-repo/commits?author=avirajdongare](https://github.com/DotBion/fluffy-fishstick/commits?author=avirajdongare)) |
 | Ronit Gehani      | Data pipeline, Airflow, MinIO                       | [View Commits] |
 | Deeptanshu Lnu    | LSTM training, APIs, frontend, testing              | [View Commits] |
 | Nobodit Choudhury | Model Training, MLFlow                              | [View Commits] |
 
 
-## 2. Scale
+## 📏 Scale
 
-**Data Scale:**
+Our project meets medium-scale criteria across all three axes—**data**, **model**, and **deployment**:
 
-* Kaggle Tweet Dataset
-* Daily OHLC & Volume from Vantage (10+ years, \~2500 data points per stock)
+---
 
-**Model Scale:**
+### 📊 Data Scale
 
-* FinBERT (\~110M parameters) from ProsusAI
-* LSTM for time-series and sentiment features
+- 🐦 **Tweet Dataset**  
+  - [Company_Tweet.csv](https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020/data?select=Company+Tweet.csv)  
+  - [Tweet.csv](https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020/data?select=Tweet.csv)
+
+- 📈 **Market Data:**  
+  Daily OHLC (open-high-low-close) and volume data from **Vantage**, typically spanning 10+ years, covering ~2500 data points per stock.
+
+---
+
+### 🧠 Model Scale
+
+- 🤖 **[FinBERT](https://huggingface.co/ProsusAI/finbert):**  
+  A large pre-trained transformer model (~110M parameters) from **ProsusAI** used for sentiment inference trained for tweets.
+
+- 🔮 **Prediction Layer:**  
+  LSTM over engineered time-series and sentiment features.
+
 
 ## Components Overview
 
@@ -64,7 +83,7 @@ FinPulse automates:
 | Persistence    | MinIO, Chameleon Volumes        |
 | Infra-as-Code  | Terraform, Ansible, ArgoCD      |
 
-## 3. 🚀 Continuous X & DevOps
+## 1. 🚀 Continuous X & DevOps
  
 ### CI/CD Workflow
 
@@ -247,7 +266,7 @@ ansible-playbook -i inventory.yml argocd/argocd_add_prod.yml
 - Training + deployment can now be triggered via a single UI workflow in **Argo**
 
 
-## 4. Data Pipeline
+## 2. Data Pipeline
 
 ### Offline Pipeline
 
@@ -323,7 +342,7 @@ ansible-playbook -i inventory.yml argocd/argocd_add_prod.yml
 * Reads data from `/mnt/block/` or MinIO
 * Provides visualizations, filters, and data quality summaries
 
-## 5. Model Training
+## 3. Model Training
 
 ### Setup:
 
@@ -344,7 +363,7 @@ ansible-playbook -i inventory.yml argocd/argocd_add_prod.yml
 * Logged metrics: MAE, accuracy, latency
 * Logged artifacts: model checkpoints, tokenizer, configuration (`lstm_model.pth`)
 
-## 6. Model Serving
+## 4. Model Serving
 
 ### API Endpoint:
 
@@ -368,7 +387,7 @@ ansible-playbook -i inventory.yml argocd/argocd_add_prod.yml
 * Evaluated model sizes across different architectures
 
 
-## 7. Evaluation & Monitoring
+## 5. Evaluation & Monitoring
 
 **Offline Evaluation:**
 
@@ -386,7 +405,7 @@ ansible-playbook -i inventory.yml argocd/argocd_add_prod.yml
 * Embedding-based input drift alerts
 * Grafana visualizations
 
-## 8. Chameleon Cloud Resources
+## 6. Chameleon Cloud Resources
 
 | Resource     | Usage Purpose               |
 | ------------ | --------------------------- |
@@ -396,7 +415,6 @@ ansible-playbook -i inventory.yml argocd/argocd_add_prod.yml
 | Floating IP  | Public API access           |
 | 100GB Volume | Models, data, logs          |
 
-## 9. 
 
 
 
