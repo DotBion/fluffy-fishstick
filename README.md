@@ -40,7 +40,7 @@ These teams rely on fragmented workflows: NLP-based sentiment research, price mo
 | ----------------- | --------------------------------------------------- | ------------------------------------------------------------------------|
 | Aviraj Dongare    | CI/CD, Infra-as-Code                                | [View Commits](https://github.com/DotBion/fluffy-fishstick/commits?author=avirajdongare) |
 | Ronit Gehani      | Data pipeline, Airflow, MinIO                       | [View Commits] |
-| Deeptanshu Lnu    | LSTM training, APIs, frontend, testing              | [View Commits] |
+| Deeptanshu Lnu    | LSTM training, APIs, frontend, testing              | [View Commits](https://github.com/DotBion/fluffy-fishstick/commits?author=deeptanshu20371), [unverified commits 1](https://github.com/DotBion/fluffy-fishstick/commit/3ed630d92dbbd24503c91fa22cddca49fc72ceee),[2](https://github.com/DotBion/fluffy-fishstick/commit/935f6cfff10cbb27de879ae70454cc87f85a1e39) |
 | Nobodit Choudhury | Model Training, MLFlow                              | [View Commits] |
 
 
