@@ -247,7 +247,7 @@ End-to-end automation supporting continuous training, containerization, and depl
 | Aviraj Dongare    | CI/CD, Infra-as-Code                                |
 | Ronit Gehani      | Data pipeline, Airflow, MinIO                       |
 | Deeptanshu Lnu    | LSTM training, APIs, frontend, testing              |
-| Nobodit Choudhury | FastAPI backend, serving infrastructure, monitoring |
+| Nobodit Choudhury | Model Training, MLFlow                              |
 | All Members       | Architecture, documentation, presentation           |
 
 ## Setup Instructions
