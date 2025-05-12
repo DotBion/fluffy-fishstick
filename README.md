@@ -386,7 +386,7 @@ ansible-playbook -i inventory.yml argocd/argocd_add_prod.yml
 ### Model Optimizations:
 
 * FP-16 and Int8 Quantizations via ONNX Runtime with full graph optimizations
-* Option to switch to 4 Uvicorn workers for production ready concurrent deployement.
+* Option to switch to Triton Inferencing and 4 Uvicorn workers for production ready concurrent deployement.
 
 ### Monitoring:
 
