@@ -297,10 +297,7 @@ ansible-playbook -i inventory.yml argocd/argocd_add_prod.yml
   * DAG logs, requirements, container images if necessary
   * Backup or sync of raw/processed MinIO data
 
-### Interactive Data Dashboard
 
-* Streamlit dashboard for data inspection and drift trends (accessible at `/dashboard`)
-* Users can explore tweet volume, sentiment polarity, and price correlation
 
 ### Offline Pipeline Overview & Flow:
 
